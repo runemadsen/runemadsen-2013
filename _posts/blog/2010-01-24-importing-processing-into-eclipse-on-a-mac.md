@@ -1,6 +1,6 @@
 ---
 layout:     blog
-title:      "Importing Processing into Eclipse on a Mac"
+title:      "Processing in Eclipse on a Mac"
 date:       2010-01-24 17:01:55
 categories: blog
 ---

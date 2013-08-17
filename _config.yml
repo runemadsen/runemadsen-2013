@@ -1,3 +1,4 @@
 name: Rune Madsen
 pygments: true
 permalink: /:categories/:title
+paginate: 5

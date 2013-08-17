@@ -5,7 +5,7 @@ date:       2010-05-24 18:51:57
 categories: blog
 ---
 
-<iframe src="http://player.vimeo.com/video/11964814?title=0&amp;byline=0&amp;portrait=0&amp;color=ffd663" width="600" height="450" frameborder="0"></iframe>
+<iframe src="http://player.vimeo.com/video/11964814?title=0&amp;byline=0&amp;portrait=0&amp;color=ffd663" width="600" height="450" frameborder="0"> </iframe>
 
 Yesterday I participated in TechCrunch's HackDisrupt with a team of 6 other fellow students from ITP. The idea of the event is for teams to come up with an idea, create it and present it on stage within a period of 20 hours. Our project was called API For the World and consisted of a physical device and an API build in Ruby on Rails. With this you can turn anything with a power cord into a networked object. It allows the electric appliances around us to communicate with the internet, filling the gap between "smart" and low-tech devices. We're calling this a social network for everyday objects, because you can use an online dashboard to create unique profiles for different objects in your house and connect them to a variety of web services (e.g. let your lamp post to Twitter or you oven post directly to Patchube every time it's being used).
 
