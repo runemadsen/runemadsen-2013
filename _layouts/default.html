@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>{{ page.title }}</title>
+  {% stylesheet app %} <!-- TODO: Media all -->
+  {% javascript app %}
+  {% include analytics.html %}
+</head>
+<body>
+  <div id="container">
+    {% include menu.html %}
+    {{ content }}
+  </div>
+</body>
+</html>
