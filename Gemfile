@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 
-gem "jekyll"
+gem "jekyll", :git => "git@github.com:mojombo/jekyll.git"
 gem 'jekyll-assets'

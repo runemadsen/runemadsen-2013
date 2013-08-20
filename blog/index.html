@@ -1,11 +1,11 @@
 ---
 layout: default
+category: blog
 ---
 
 <div class="grid_9" id="blog">
-  
-  {% for post in site.posts %}
-    {% if post.categories contains 'blog' %}
+
+  {% for post in paginator.posts %}
       <div class="post">
         <div class="post-header">
           <div class="time">{{ post.date | date: "%d %B, %Y" }}</div>
@@ -16,7 +16,7 @@ layout: default
           <div class="post-main-left">
             <div class="fixie">
             <ul class="options">
-              <li><a href="{{ page.url }}">Permalink</a></li>
+              <li><a href="{{ post.url }}">Permalink</a></li>
             </ul>
             </div>
             &nbsp;
@@ -27,7 +27,6 @@ layout: default
           <div class="clear"></div>
         </div>
       </div>
-    {% endif %}
   {% endfor %}
 
 </div>

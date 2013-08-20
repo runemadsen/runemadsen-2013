@@ -1,4 +1,6 @@
 name: Rune Madsen
 pygments: true
 permalink: /:categories/:title
+exclude: [Gemfile, Gemfile.lock]
 paginate: 5
+excerpt_separator: ""
