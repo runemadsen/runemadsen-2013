@@ -5,7 +5,7 @@ date:   2013-08-24 20:20:20
 categories: blog
 ---
 
-<img src="{% asset_path work/tinyartists-temp.jpg %}" />
+<img src="{% asset_path blog/tempgallery.jpg %}" />
 
 I'm just finally getting around to updating my website with new work. Here's a photo of my newest gallery showing of my "Tiny Artists" series. These software programs and resulting posters investigate color theory, and how far you can come in creating software that creates beautiful themes without too many restrictions in the code.
 
