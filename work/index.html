@@ -3,20 +3,20 @@ layout: default
 category: work
 ---
 
-  {% for post in site.posts %}
+  {% for post in site.categories.work %}
     <div class="project" >
       <div class="grid_5">
-        <a href="/work/{{ post.url }}"><h2>{{ post.title }}</h2></a>
+        <a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
         <div class="details">
           <ul class="options">
-            <li><a href="/work/<%= post.url %>">Read More</a></li>
+            <li><a href="{{ post.url }}">Read More</a></li>
           </ul>
-          {{ post.excerpt }}
+          <p>{{ post.excerpt }}</p>
           <div class="clear"></div>
         </div>
       </div>
       <div class="grid_7">
-        <a href="/work/{{ post.url }}"><img src="{{ post.poster | asset_path }}" /></a>
+        <a href="{{ post.url }}"><img src="{{ post.poster | asset_path }}" /></a>
       </div>
       <div class="clear"></div>
     </div>

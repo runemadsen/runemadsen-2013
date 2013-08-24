@@ -12,23 +12,11 @@ module Jekyll
     safe true
 
     def generate(site)
-      
       site.pages.dup.each do |page|
         if CategoryPager.pagination_enabled?(site.config, page)
           paginate(site, page) 
-        else
-          assign_all(site, page)
         end
       end
-
-    end
-
-    def assign_all(site, page)
-      category_posts = site.categories[page.data['category']].sort_by { |p| -p.date.to_f }
-
-      # I'm not sure this is going to work if we have more than 1 categoy not using pagination, as
-      # this overrides the main site.posts. Maybe I should assign this to a different var in the page
-      site.posts = category_posts
     end
 
     def paginate(site, page)
