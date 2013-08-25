@@ -30,19 +30,19 @@ However, it gets a little messy with all those variables. Exactly like we use PV
 
 The class you use to hold the values for shapes is called RShape. Here's an example that shows you how to draw simple shapes with an RShape, instead of Processing's drawing functions.
 
-<img src="http://runemadsen-2012.s3.amazonaws.com/printing-code-2012/geomerative/basic_shapes_small.jpg" data-slideshow="http://runemadsen-2012.s3.amazonaws.com/printing-code-2012/geomerative/basic_shapes.png" />
+<img src="{% asset_path printing-code/geomerative/basic_shapes_small.jpg %}" data-slideshow="{% asset_path printing-code/geomerative/basic_shapes.png %}" />
 [Example on Github](https://github.com/runemadsen/printing-code/tree/master/code/geomerative/basic_shapes)
 
 But drawing ellipses and rectangles won't get us far. Remember beginShape() and endShape()? RShape is built to handle vertex and bezierVertices too! Here's an example where I draw the sample wobbly shape first using beginShape(), then using RShape: 
 
-<img src="http://runemadsen-2012.s3.amazonaws.com/printing-code-2012/geomerative/beginshape_small.jpg" data-slideshow="http://runemadsen-2012.s3.amazonaws.com/printing-code-2012/geomerative/beginshape.png" />
+<img src="{% asset_path printing-code/geomerative/beginshape_small.jpg %}" data-slideshow="{% asset_path printing-code/geomerative/beginshape.png %}" />
 [Example on Github](https://github.com/runemadsen/printing-code/tree/master/code/geomerative/beginshape)
 
 Notice how the RShape object has a draw() function that will draw the shape with the current fill and stroke in the current 0,0 position in Processing. To move it, you need to call translate before drawing it on screen.
 
 Now that we have an RShape that holds the vertices of our shape, we can do fun stuff with the shape, using some of the built-in RShape functions.
 
-<img src="http://runemadsen-2012.s3.amazonaws.com/printing-code-2012/geomerative/drawing_small.jpg" data-slideshow="http://runemadsen-2012.s3.amazonaws.com/printing-code-2012/geomerative/drawing.png" />
+<img src="{% asset_path printing-code/geomerative/drawing_small.jpg %}" data-slideshow="{% asset_path printing-code/geomerative/drawing.png %}" />
 [Example on Github](https://github.com/runemadsen/printing-code/tree/master/code/geomerative/drawing)
 
 There are many ways to create an RShape, and adding the vertices one by one is just one example. You've already seen that we can load an SVG image into an RShape, in the [Sigur Ros](https://github.com/runemadsen/printing-code/tree/master/code/homework/sigur_ros) assignment from last week.
@@ -64,12 +64,12 @@ In the end, RShapes are made up by RPath objects, that themselves has an array o
 
 We can use this info to get the vertex points back from the RShape. Here's an example where I'm drawing small ellipses at the places where I placed points in the first place:
 
-<img src="http://runemadsen-2012.s3.amazonaws.com/printing-code-2012/geomerative/rcommand_small.jpg" data-slideshow="http://runemadsen-2012.s3.amazonaws.com/printing-code-2012/geomerative/rcommand.png" />
+<img src="{% asset_path printing-code/geomerative/rcommand_small.jpg %}" data-slideshow="{% asset_path printing-code/geomerative/rcommand.png %}" />
 [Example on Github](https://github.com/runemadsen/printing-code/tree/master/code/geomerative/rcommand)
 
 So what is an RCommand? Let's take a close look at a much simpler example. Here I'm creating a single RCommand object to draw a curved line.
 
-<img src="http://runemadsen-2012.s3.amazonaws.com/printing-code-2012/geomerative/rcommand_simple_small.jpg" data-slideshow="http://runemadsen-2012.s3.amazonaws.com/printing-code-2012/geomerative/rcommand_simple.png" />
+<img src="{% asset_path printing-code/geomerative/rcommand_simple_small.jpg %}" data-slideshow="{% asset_path printing-code/geomerative/rcommand_simple.png %}" />
 [Example on Github](https://github.com/runemadsen/printing-code/tree/master/code/geomerative/rcommand_simple)
 
 
@@ -80,7 +80,7 @@ Remember in the typography class where we converted a character to an RPolygon, 
 
 Here's an example where we do the exact same thing for an RShape 
 
-<img src="http://runemadsen-2012.s3.amazonaws.com/printing-code-2012/geomerative/rshape_outline_small.jpg" data-slideshow="http://runemadsen-2012.s3.amazonaws.com/printing-code-2012/geomerative/rshape_outline.png" />
+<img src="{% asset_path printing-code/geomerative/rshape_outline_small.jpg %}" data-slideshow="{% asset_path printing-code/geomerative/rshape_outline.png %}" />
 [Example on Github](https://github.com/runemadsen/printing-code/tree/master/code/geomerative/rshape_outline)
 
 

@@ -51,30 +51,30 @@ In order to convert your file, you will need to have Photoshop on your computer.
 
 First, open up the PDF file.
 
-<img src="http://runemadsen-2012.s3.amazonaws.com/printing-code-2012/other/tif0.png" />
+<img src="{% asset_path printing-code/other/tif0.png %}" />
 
 Photoshop will prompt you with a "PDF Import" dialog. Here you need to make sure that the image is in 300 pixels per inch, and that the width and height matches your print size.
 
-<img src="http://runemadsen-2012.s3.amazonaws.com/printing-code-2012/other/tif1.png" />
+<img src="{% asset_path printing-code/other/tif1.png %}" />
 
 This will open up your PDF as a bitmap. Now you need to convert the color profile. You'll find that option in the "Edit" menu.
 
-<img src="http://runemadsen-2012.s3.amazonaws.com/printing-code-2012/other/tif2.png" />
+<img src="{% asset_path printing-code/other/tif2.png %}" />
 
 Make sure to convert into the Adobe RGB 1998 color profile. You can leave all the other settings to their defaults.
 
-<img src="http://runemadsen-2012.s3.amazonaws.com/printing-code-2012/other/tif3.png" />
+<img src="{% asset_path printing-code/other/tif3.png %}" />
 
 Now you need to save the image as a TIF image. First press "Save As".
 
-<img src="http://runemadsen-2012.s3.amazonaws.com/printing-code-2012/other/tif4.png" />
+<img src="{% asset_path printing-code/other/tif4.png %}" />
 
 Choose to save a TIF without layers.
 
-<img src="http://runemadsen-2012.s3.amazonaws.com/printing-code-2012/other/tif5.png" />
+<img src="{% asset_path printing-code/other/tif5.png %}" />
 
 Press ok when this dialog shows up.
 
-<img src="http://runemadsen-2012.s3.amazonaws.com/printing-code-2012/other/tif6.png" />
+<img src="{% asset_path printing-code/other/tif6.png %}" />
 
 That's it! You now have a TIF ready for print!

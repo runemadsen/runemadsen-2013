@@ -16,12 +16,12 @@ When we looked at vectors last time, I said that a vector is basically just a x,
 
 This example demonstrates this by drawing 2 lines from the same vector.
 
-<img src="http://runemadsen-2012.s3.amazonaws.com/printing-code-2012/geomerative/rpoint_small.jpg" data-slideshow="http://runemadsen-2012.s3.amazonaws.com/printing-code-2012/geomerative/rpoint.png" />
+<img src="{% asset_path printing-code/geomerative/rpoint_small.jpg %}" data-slideshow="{% asset_path printing-code/geomerative/rpoint.png %}" />
 [Example on Github](https://github.com/runemadsen/printing-code/tree/master/code/geomerative/rpoint)
 
 If we were to demonstrate this in a real-world example, we could make a sketch where a bunch of flowers automatically choose a direction and a length, and dynamically draw themselves. This is a simple example of how that would look like.
 
-<img src="http://runemadsen-2012.s3.amazonaws.com/printing-code-2012/geomerative/flowers_small.jpg" data-slideshow="http://runemadsen-2012.s3.amazonaws.com/printing-code-2012/geomerative/flowers.png" />
+<img src="{% asset_path printing-code/geomerative/flowers_small.jpg %}" data-slideshow="{% asset_path printing-code/geomerative/flowers.png %}" />
 [Example on Github](https://github.com/runemadsen/printing-code/tree/master/code/geomerative/flowers)
 
 As you can see, a vector is really fundamental in computational geometry, as all shapes consists of vectors.
@@ -34,19 +34,19 @@ Remember that there are 2 different set of classes in Geomerative. One is an RSh
 
 Here's a simple example where I'm creating an RShape (a line) and converting to an RPolygon (also a line, but made up of a lot of points, instead of 2).
 
-<img src="http://runemadsen-2012.s3.amazonaws.com/printing-code-2012/geomerative/line_small.jpg" data-slideshow="http://runemadsen-2012.s3.amazonaws.com/printing-code-2012/geomerative/line.png" />
+<img src="{% asset_path printing-code/geomerative/line_small.jpg %}" data-slideshow="{% asset_path printing-code/geomerative/line.png %}" />
 [Example on Github](https://github.com/runemadsen/printing-code/tree/master/code/geomerative/line)
 
 Let's look at a little bit more advanced example, where we'll be creating a small drawing of a house. First we'll create the house as an RShape, and then we'll convert it to an RPolygon to make it feel more like a line drawing.
 
 In the first session on Geomerative, we saw how to create a single wobbly form as an RShape. Here's an example where we draw house - a shape with more than one RPath's.
 
-<img src="http://runemadsen-2012.s3.amazonaws.com/printing-code-2012/geomerative/house_small.jpg" data-slideshow="http://runemadsen-2012.s3.amazonaws.com/printing-code-2012/geomerative/house.png" />
+<img src="{% asset_path printing-code/geomerative/house_small.jpg %}" data-slideshow="{% asset_path printing-code/geomerative/house.png %}" />
 [Example on Github](https://github.com/runemadsen/printing-code/tree/master/code/geomerative/house)
 
 Here's an example of how to convert our house to an outline, in order to simluate a hand-written line.
 
-<img src="http://runemadsen-2012.s3.amazonaws.com/printing-code-2012/geomerative/house_wobbly_small.jpg" data-slideshow="http://runemadsen-2012.s3.amazonaws.com/printing-code-2012/geomerative/house_wobbly.png" />
+<img src="{% asset_path printing-code/geomerative/house_wobbly_small.jpg %}" data-slideshow="{% asset_path printing-code/geomerative/house_wobbly.png %}" />
 [Example on Github](https://github.com/runemadsen/printing-code/tree/master/code/geomerative/house_wobbly)
 
 
