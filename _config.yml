@@ -4,3 +4,11 @@ permalink: /:categories/:title
 exclude: [Gemfile, Gemfile.lock]
 excerpt_separator: ""
 paginate: 5
+assets:
+  #js_compressor:  uglifier
+  css_compressor: sass
+  sources:
+    - _assets/javascripts
+    - _assets/stylesheets
+    - _assets/images
+    - _assets/fonts

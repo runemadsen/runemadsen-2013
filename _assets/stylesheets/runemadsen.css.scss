@@ -3,7 +3,6 @@ body {
   font-size: 14px;
   color: #2e2e2e;
   background-color: #f7f7f5;
-/*	background-image: url("http://runemadsen-2012.s3.amazonaws.com/images/vertical_grid.jpg");*/
 }
 
 /* Fonts
@@ -11,22 +10,22 @@ body {
 
 @font-face {
   font-family: 'Akkurat-Bold';
-  src: url(/fonts/AkkurBol.eot); 
+  src: url(asset_path("AkkurBol.eot")); 
 }
 
 @font-face {
   font-family: 'Akkurat-Bold';
-  src: url(/fonts/AkkurBol.woff) format("woff"), url(/fonts/AkkurBol.svg#Akkurat-Bold) format("svg"); 
+  src: url(asset_path("AkkurBol.woff")) format("woff"), url(asset_path("AkkurBol.svg#Akkurat-Bold")) format("svg"); 
 }
 
 @font-face {
   font-family: 'Akkurat-Regular';
-  src: url(/fonts/AkkurReg.eot); 
+  src: url(asset_path("AkkurReg.eot")); 
 }
 
 @font-face {
   font-family: 'Akkurat-Regular';
-  src: url(/fonts/AkkurReg.woff) format("woff"), url(/fonts/AkkurReg.svg#Akkurat-Regular) format("svg"); 
+  src: url(asset_path("AkkurReg.woff")) format("woff"), url(asset_path("AkkurReg.svg#Akkurat-Regular")) format("svg"); 
 }
 
 h1, h2, h3, h4, h5, h6 {
