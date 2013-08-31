@@ -5,7 +5,7 @@ date:       2010-02-11 03:38:43
 categories: blog
 ---
 
-<img alt="dataviz" src="http://runemadsen-2012.s3.amazonaws.com/blog/dataviz.jpg" />
+<img alt="dataviz" src="{% asset_path blog/dataviz.jpg %}" />
 
 I've found that good data visualizations are hard to find. Even the best sites have post after post showing ugly bubble diagrams with Twitter connections. So here's my list of some of the best sources for great data visualizations I've stumbled upon in 2009:
 

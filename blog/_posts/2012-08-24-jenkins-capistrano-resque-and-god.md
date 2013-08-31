@@ -8,7 +8,7 @@ permalink: "blog/jenkins-capistrano-resque-and-god"
 
 I'm currently working on a web application that uses Resque heavily to send jobs to a separate server that picks up these jobs, runs them, and reports back to the Rails app hosted on Heroku.
 
-Until now we have been deploying the workers by SSH'ing into the worker server, pulling down the changes from the github repo, and killing the workers manually by running "kill -QUIT \[pid\]". Not exactly continuous integration. So this week I took a stab at optimizing our deployment setup. This is how I did it.
+Until now we have been deploying the workers by SSH'ing into the worker server, pulling down the changes from the github repo, and killing the workers manually by running "kill -QUIT PID". Not exactly continuous integration. So this week I took a stab at optimizing our deployment setup. This is how I did it.
 
 I wanted this: Whenever I push something to the "production" branch on Github, a server running Jenkins will pull down the code and run the tests. If they pass, Jenkins will run a capistrano script that will deploy the code to the worker server. We are using God to monitor our Resque processes, so capistrano would need to kill these processes in order for God to start them up again with the new code.
 

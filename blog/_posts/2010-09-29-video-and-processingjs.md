@@ -6,7 +6,7 @@ categories: blog
 permalink: "blog/video-and-processingjs"
 ---
 
-![arduinoroll](http://runemadsen-2012.s3.amazonaws.com/blog/arduinoroll.jpg)
+![arduinoroll]({% asset_path blog/arduinoroll.jpg %})
 
 I'm currently working on a project with [Greg Borenstein](http://urbanhonking.com/ideasfordozens/) and [Zeven Rodriguez](http://zevenwolf.com/blog/), trying to use HTML5 video and the Processing.js javascript library to create a more interactive way of documenting electronic projects... more about that later.
 

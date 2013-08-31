@@ -201,10 +201,10 @@ Rand is also known for his many books that helped define what graphic design act
 </blockquote>
 
 <blockquote data-slideshow="self">
-Another kind of definition is that design is a system of relationships between all of the aspects of the problem, which means the relationship between you and the piece of canvas, [...] you and the eraser, you and the pen. The relationship between the elements proportions, which mean the relationship of sizes. I can go on all day. This is one of the reasons why design is so difficult to accomplish. Because every time you do something, the potential for making mistakes is enormous. The process of designing is from complexity to simplicity. The part of complexity if filled with all kinds of horrible problems. - Paul Rand
+Another kind of definition is that design is a system of relationships between all of the aspects of the problem, which means the relationship between you and the piece of canvas, you and the eraser, you and the pen. The relationship between the elements proportions, which mean the relationship of sizes. I can go on all day. This is one of the reasons why design is so difficult to accomplish. Because every time you do something, the potential for making mistakes is enormous. The process of designing is from complexity to simplicity. The part of complexity if filled with all kinds of horrible problems. - Paul Rand
 </blockquote>
 
-Paul Rand released numerous books (see _[Recommended Readings](/printing-code-2012)_), in which he often argued that graphic design, with its focus on color, form and proportion, should be considered as the basis for all visual arts. Advertising had become an art form.
+Paul Rand released numerous books (see _[Recommended Readings](/printing-code)_), in which he often argued that graphic design, with its focus on color, form and proportion, should be considered as the basis for all visual arts. Advertising had become an art form.
 
 <img src="{% asset_path printing-code/intro/bass_small.jpg %}" data-slideshow="{% asset_path printing-code/intro/bass.jpg %}" />
 

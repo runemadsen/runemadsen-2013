@@ -6,7 +6,7 @@ categories: blog
 permalink: "blog/generative-logo"
 ---
 
-<img alt="generative" src="http://runemadsen-2012.s3.amazonaws.com/blog/generative.jpg" />
+<img alt="generative" src="{% asset_path blog/generative.jpg %}" />
 
 Lately I've been very interested in generative graphics: creating logos or designs based on code visualizations. This is one of my attempts to create an "R" using OpenFrameworks and the Box2D physics library. You can <a  target="_blank" href="http://github.com/Ronze/Generative-Logo-1">download the Source Code here</a>
 

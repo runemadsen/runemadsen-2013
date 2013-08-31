@@ -11,8 +11,8 @@ Just to make a simple test I removed all the logos from the beautiful EMX-1 in P
 
 <strong>Before</strong>
 
-<img alt="eddy1" src="http://runemadsen-2012.s3.amazonaws.com/blog/eddy1.jpg" />
+<img alt="eddy1" src="{% asset_path blog/eddy1.jpg %}" />
 
 <strong>After</strong>
 
-<img alt="eddy2" src="http://runemadsen-2012.s3.amazonaws.com/blog/eddy2.jpg" />
+<img alt="eddy2" src="{% asset_path blog/eddy2.jpg %}" />

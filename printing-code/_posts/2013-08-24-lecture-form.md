@@ -234,7 +234,7 @@ A bezier curve is a formula that describes how to draw a line from one point to 
 
 It can be hard to understand how these two control points tell the line to curve like that. This animation shows how the curve of the line is calculated by doing simple vector math on the anchor points and control points.
 
-<img src="http://runemadsen-2012.s3.amazonaws.com/printing-code-2012/form/bezier_movement_small.gif" data-slideshow="http://runemadsen-2012.s3.amazonaws.com/printing-code-2012/form/bezier_movement.gif" />
+<img src="{% asset_path printing-code/form/bezier_movement_small.gif %}" data-slideshow="{% asset_path printing-code/form/bezier_movement.gif %}" />
 [Example on Github](https://github.com/runemadsen/printing-code/tree/master/code/form/bezier_vertex_movement)
 
 Here's a simple shape created with bezierVertex and vertex.

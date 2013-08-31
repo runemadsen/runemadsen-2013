@@ -613,7 +613,7 @@ body#slides {
   width: 26px;
   height: 26px;
   top: 55px;
-  background-image: url("http://runemadsen-2012.s3.amazonaws.com/images/eye.png"); 
+  background-image: url("{% asset_path images/eye.png %}"); 
 }
 
 #computer #left-eye {
