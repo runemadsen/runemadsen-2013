@@ -5,7 +5,7 @@ exclude: [Gemfile, Gemfile.lock]
 excerpt_separator: ""
 paginate: 5
 assets:
-  #js_compressor:  uglifier
+  js_compressor:  uglifier
   css_compressor: sass
   sources:
     - _assets/javascripts

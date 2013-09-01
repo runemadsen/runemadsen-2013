@@ -5,7 +5,7 @@ date:       2009-11-26 19:15:22
 categories: blog
 ---
 
-{% asset_path blog/newhomepage.jpg %}
+<img src="{% asset_path blog/newhomepage.jpg %}" />
 
 During the last couple of years I have seen myself move in quite a few different directions. In 2009 I found myself updating numerous sites, depending on which of these areas I was working on. For my company I updated my portfolio on these pages. When I did PHP development, most of it was on forums or on [my joomla blog](http://www.youcanjoomla.com). When I recorded new music I started a new website for every project.
 

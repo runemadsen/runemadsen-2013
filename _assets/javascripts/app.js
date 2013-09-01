@@ -1,7 +1,3 @@
-//= require libraries
-//= require shared
+//= require jquery
 //= require error
-//= require front
-//= require mail
 //= require printing-code
-//= require slideshow
