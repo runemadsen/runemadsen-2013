@@ -16,4 +16,6 @@ s3cmd sync --delete —cf-invalidate --acl-public _site/ s3://runemadsen.com
 TODO
 ----
 
-- Rewrite waza talk description
+- Responsive grid system
+- Better menu
+- Make invalidation work
