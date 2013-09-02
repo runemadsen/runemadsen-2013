@@ -1,0 +1,24 @@
+---
+layout: default
+category: books
+---
+
+  {% for post in site.categories.books %}
+    <div class="project" >
+      <div class="grid_7">
+        <a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
+        <div class="details">
+          <ul class="options">
+            <li><a href="{{ post.url }}">More Pictures</a></li>
+          </ul>
+          <p>{{ post.excerpt }}</p>
+          <div class="clear"></div>
+        </div>
+      </div>
+      <div class="grid_1">&nbsp;</div>
+      <div class="grid_4">
+        <a href="{{ post.url }}"><img src="{{ post.poster | asset_path }}" /></a>
+      </div>
+      <div class="clear"></div>
+    </div>
+  {% endfor %}
