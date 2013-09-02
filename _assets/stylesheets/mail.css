@@ -1,0 +1,21 @@
+#subscribe-box label {
+  display: block;
+  margin-bottom: 3px;
+}
+
+#subscribe-box input[type="text"], #subscribe-box input[type="email"] {
+  border: 1px solid #999999;
+  font-size: 14px;
+  font-family: Helvetica, Arial, sans-serif;
+  padding: 5px 10px;
+  width: 300px;
+  margin-bottom: 10px;
+}
+
+#subscribe-box input[type="submit"] {
+  margin-top: 10px;
+}
+
+#subscribe-box input[name="address"] {
+  display: none;
+}

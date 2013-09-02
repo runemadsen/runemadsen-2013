@@ -1,0 +1,114 @@
+.post {
+  margin-bottom: 44px;
+}
+
+.post img {
+  margin-top: 11px;
+  margin-bottom: 11px;
+}
+
+.post:nth-child(5) {
+  margin-bottom: 0px;
+}
+
+.post-header {
+  border-bottom: 3px solid #2e2e2e;
+  padding-bottom: 15px;
+}
+
+.post-header .time {
+  margin-top: 7px;
+  font-family: 'Akkurat-Bold';
+  float: left;
+  width: 180px;
+}
+
+.post-header h1 {
+  float: left;
+  line-height: 25px;
+  margin: 0;
+}
+
+.post-main-left {
+  float: left;
+  width: 180px;
+}
+
+#blog-sidebar h3 {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+#blog-sidebar p {
+  font-size: 13px;
+}
+
+/* Level 1
+------------------------------------------- */
+
+.post-main-left ul {
+  padding-right: 15px;
+}
+
+/* Body
+------------------------------------------- */
+
+.post-main-right {
+  float: left;
+  width: 600px;
+}
+
+.post-main-right p:first-child {
+  margin-top: 15px;
+}
+
+.post-main-right img:first-child,
+.post-main-right iframe:first-child {
+  margin-top: 0;
+}
+
+/* Page Nav
+------------------------------------------- */
+
+#page-nav {
+  margin-top: 22px;
+  border-top: 3px solid #2e2e2e;
+  padding-top: 22px;
+  margin-bottom: 33px;
+}
+
+/* Gist styling
+------------------------------------------- */
+
+.post-main-right .gist {
+  margin: 22px 0px;
+}
+
+.post-main-right .gist .gist-file {
+  font-size: 13px;
+  border: none;
+}
+
+.post-main-right .gist .gist-file .gist-data {
+  background-color: #e6e6e6;
+  padding: 10px 15px;
+}
+
+.post-main-right .gist .gist-file .gist-highlight {
+  padding: 0;
+}
+
+.post-main-right .gist .gist-file .gist-meta {
+  background-color: #e6e6e6;
+  font-size: 10px;
+  font-family: Helvetica, Arial, sans-serif;
+  color: #bebebe;
+}
+
+.post-main-right .gist .gist-file .gist-meta a,
+.post-main-right .gist .gist-file .gist-meta a:visited,
+.post-main-right .gist .gist-file .gist-meta a:link {
+  text-decoration: none;
+  color: #bebebe !important;
+  border-bottom: none;
+}

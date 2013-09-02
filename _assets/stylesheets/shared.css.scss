@@ -1,0 +1,207 @@
+body {
+  font-family: Helvetica, Arial;
+  font-size: 14px;
+  color: #2e2e2e;
+  background-color: #f7f7f5;
+}
+
+/* Fonts
+----------------------------------------------------------------- */
+
+@font-face {
+  font-family: 'Akkurat-Bold';
+  src: url(asset_path("AkkurBol.eot")); 
+}
+
+@font-face {
+  font-family: 'Akkurat-Bold';
+  src: url(asset_path("AkkurBol.woff")) format("woff"), url(asset_path("AkkurBol.svg#Akkurat-Bold")) format("svg"); 
+}
+
+@font-face {
+  font-family: 'Akkurat-Regular';
+  src: url(asset_path("AkkurReg.eot")); 
+}
+
+@font-face {
+  font-family: 'Akkurat-Regular';
+  src: url(asset_path("AkkurReg.woff")) format("woff"), url(asset_path("AkkurReg.svg#Akkurat-Regular")) format("svg"); 
+}
+
+h1, h2, h3, h4, h5, h6 {
+  text-rendering: optimizelegibility;
+  font-weight: normal;
+  font-family: "Akkurat-Bold", serif; 
+}
+
+h1 {
+  line-height: 42px;
+  font-size: 30px;
+  margin-bottom: 11px;
+  letter-spacing: -0.5; 
+}
+
+h2 {
+  font-size: 24px;
+  line-height: 36px;
+  margin-bottom: 11px; 
+}
+
+h3 {
+  font-size: 17px;
+  line-height: 26px; 
+	margin-bottom: 11px;
+}
+
+h4 {
+  font-size: 15px;
+  line-height: 26px; 
+}
+
+p {
+  margin-bottom: 11px;
+  line-height: 22px; 
+}
+
+a {
+  color: black;
+  text-decoration: none;
+  border-bottom: 1px solid #868686;
+  color: black; 
+}
+
+h1.underline, #printing-code-body h1 {
+	line-height: 25px;
+	margin-bottom: 15px;
+	border-bottom: 3px solid #2e2e2e;
+  padding-bottom: 15px;
+}
+
+h2.underline, #printing-code-body h2 {
+	line-height: 25px;
+	margin-top: 20px;
+	margin-bottom: 15px;
+	border-bottom: 2px solid #2e2e2e;
+  padding-bottom: 12px;
+}
+
+a:hover {
+	color: #4d4c4d; 
+}
+
+blockquote {
+  line-height: 22px;
+  border-left: 3px solid #4d4c4d;
+  padding: 7px 15px;
+  font-size: 13px;
+  margin: 22px 0px;
+  background-color: #e6e6e6;
+}
+
+ul, ol {
+  line-height: 22px;
+  margin: 11px 0px;
+  margin-left: 25px;
+}
+
+iframe {
+	margin-top: 11px;
+	margin-bottom: 11px;
+}
+
+/* Re-usable styles
+----------------------------------------------------------------- */
+
+ul.options {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	line-height: 12px;
+}
+
+ul.options li {
+	font-size: 11px;
+  font-weight: bold;
+  padding-top: 17px;
+  padding-bottom: 3px;
+  border-bottom: 1px solid #b6b6b6;
+}
+
+.project .details ul li a {
+	border-bottom: none;
+}
+
+ul.options a {
+	color: #4d4c4d;
+  border: none;
+}
+
+/* Skeleton
+----------------------------------------------------------------- */
+
+#container {
+  width: 1080px;
+  margin: 0 auto;
+	padding-bottom: 40px;
+}
+
+/* Header
+----------------------------------------------------------------- */
+
+#header {
+  margin-top: 11px;
+  margin-bottom: 61px;
+  height: 27px;
+  line-height: 27px;
+  background-color: #2e2e2e;
+}
+
+#header ul {
+  float: right;
+  line-height: 27px;
+  margin: 0;
+}
+
+#header ul li {
+  float: left;
+  list-style: none;
+  height: 100%;
+  border-left: 1px solid #4d4c4d;
+}
+
+#header ul li a {
+  font-family: "Akkurat-Regular", serif;
+  color: white;
+  font-size: 13px;
+  text-decoration: none;
+  border: none;
+  padding: 0px 19px;
+  display: block;
+}
+  
+#header ul li a:hover {
+  background-color: #333333;
+}
+
+#header ul li#active a {
+  font-family: "Akkurat-Bold", serif;
+  background-color: #f7f7f5;
+  color: #2e2e2e;
+}
+
+#header a#logo {
+  font-family: "Akkurat-Regular", serif;
+  color: white;
+  font-size: 13px;
+  text-decoration: none;
+  border: none;
+  padding: 0px 19px;
+  display: block;
+  height: 100%;
+  float: left;
+  border-right: 1px solid #4d4c4d;
+}
+ 
+#header a#logo:hover {
+  background-color: #333333;
+}

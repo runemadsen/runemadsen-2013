@@ -1,0 +1,27 @@
+#printing-code-body img {
+  border: 1px solid #D0D0D0;
+}
+
+#printing-code-body pre {
+  margin-bottom: 10px;
+  padding: 10px;
+  background-color: #EBEBEB;
+}
+
+#printing-code-body [data-slideshow] {
+  cursor: pointer;
+}
+
+#toc {
+  margin-left: 0px;
+  list-style: none;
+}
+
+#toc li {
+  margin-bottom: 0px;
+}
+
+#toc li a {
+  border-bottom: none;
+  font-size: 13px;
+}

@@ -1,0 +1,19 @@
+#cv {
+  font-size: 13px;
+}
+
+/* Resume Styling
+------------------------------------------- */
+
+#resume ul {
+  margin: 0;
+  padding: 0;
+  margin-left: 15px;
+  margin-bottom: 22px;
+  font-size: 13px;
+}
+
+#description {
+  font-weight: bold;
+  padding-top: 11px;
+}

@@ -2,12 +2,13 @@
 <html>
 <head>
   <title>{{ page.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   {% stylesheet app %}
   {% javascript app %}
   {% include analytics.html %}
 </head>
 <body>
-  <div id="container">
+  <div class="container">
     {% include menu.html %}
     {{ content }}
   </div>

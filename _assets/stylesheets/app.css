@@ -1,2 +1,10 @@
-//= require reset
-//= require runemadsen
+//= require bootstrap
+//= require shared
+//= require 404
+//= require blog
+//= require front
+//= require info
+//= require mail
+//= require printing-code
+//= require slideshow
+//= require work
