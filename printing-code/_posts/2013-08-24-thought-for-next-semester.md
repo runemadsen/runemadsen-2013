@@ -5,11 +5,7 @@ date:       2013-08-24 19:15:22
 categories: printing-code
 ---
 
-
-Midterm reviews
----------------
-
-Everyone loves the class. A few notes:
+Switch from Geomerative to PShape.
 
 - People should hang their prints before class, and we should walk around to see them
 - More code. We do a lot of design, and code is more review
