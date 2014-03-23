@@ -1,7 +1,7 @@
 ---
 layout:     blog
 title:      "Generative Webfonts with JS"
-date:       2014-04-08 13:55:00
+date:       2014-03-08 13:55:00
 categories: blog
 permalink: "blog/gerstner-js"
 ---
