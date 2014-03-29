@@ -2,34 +2,8 @@
 layout: default
 ---
 
-<div class="grid_9" id="blog">
-  <div class="post" id="post<%= post.id %>">
-    <div class="post-header">
-      <div class="time">{{ page.date | date: "%d %B, %Y" }}</div>
-      <h1>{{ page.title }}</h1>
-      <div class="clear"></div>
-    </div>
-    <div class="post-main">
-      <div class="post-main-left">
-        <div class="fixie">
-        <ul class="options">
-          <li><a href="{{ page.url }}">Permalink</a></li>
-        </ul>
-        </div>
-        &nbsp;
-      </div>
-      <div class="post-main-right">
-        {{ content }}
-      </div>
-      <div class="clear"></div>
-    </div>
-  </div>
-</div>
-<div class="grid_3" id="blog-sidebar">
+<div class="time">{{ page.date | date: "%d %B, %Y" }}</div>
+<h1>{{ page.title }}</h1>
+<a href="{{ page.url }}">Permalink</a>
   
-  <h3>About Me</h3>
-  
-  <p>My name is Rune Madsen, and I'm a computational artist working in the fields of programming and graphic design. I write about design, art and any random thoughts I'm currently bouncing around in my head. New posts will be tweeted out from my <a href="http://www.twitter.com/runemadsen">Twitter</a> account.</p>
-  
-</div>
-<div class="clear"></div>
+{{ content }}

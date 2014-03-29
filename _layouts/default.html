@@ -2,14 +2,15 @@
 <html>
 <head>
   <meta charset=utf-8 />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }}</title>
   {% stylesheet app %}
   {% javascript app %}
   {% include analytics.html %}
 </head>
 <body>
+  {% include menu.html %}
   <div id="container">
-    {% include menu.html %}
     {{ content }}
   </div>
 </body>

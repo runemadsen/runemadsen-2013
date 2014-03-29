@@ -1,0 +1,47 @@
+#error {
+  width: 251px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-left: -125px;
+  margin-top: -230px;
+}
+
+#error h1 {
+  font-size: 95px;
+  line-height: 95px;
+  text-align: center;
+  color: #1a1a1a;
+  margin-bottom: 11px;
+}
+
+#error p {
+  font-family: "Akkurat-Bold", serif;
+  font-size: 24px;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  margin-top: 22px;
+  color: #1a1a1a;
+}
+
+#error #computer {
+  position: relative;
+}
+
+#computer #left-eye,
+#computer #right-eye {
+  position: absolute;
+  width: 26px;
+  height: 26px;
+  top: 55px;
+  background-image: url(asset_path("images/eye.png")); 
+}
+
+#computer #left-eye {
+  left: 86px;
+}
+
+#computer #right-eye {
+  left: 145px;
+}

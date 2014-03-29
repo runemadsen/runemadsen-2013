@@ -1,0 +1,112 @@
+/* Fluid mode
+--------------------------------------------------------- */
+
+body {
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 100%;
+  color: #2e2e2e;
+  background-color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+iframe {
+	margin-top: 11px;
+	margin-bottom: 11px;
+}
+
+#container {
+  width: 100%;
+  margin-top: 30px;
+	padding-bottom: 40px;
+}
+
+#container img {
+  max-width: 100%;
+  height:auto;
+  display:block;
+}
+
+#menu {
+  list-style: none;
+  text-transform: uppercase;
+  -webkit-font-smoothing: antialiased;
+  font-size: 1.3em;
+  font-weight: bold;
+  padding: 0;
+  margin: 25px 0 0 0;
+  text-align: center;
+}
+
+#menu li {
+  padding: 0;
+  margin: 0 7px 0 0;
+  display: inline-block;
+}
+
+#menu li:last-child {
+  margin-right: 0;
+}
+
+#menu li a {
+  display: inline-block;
+  color: #272727;
+  text-decoration: none;
+}
+
+/* Content goes from fluid to 600px fixed
+--------------------------------------------------------- */
+
+@media (min-width: 640px) {
+
+  body {
+    padding: 0px;
+  }
+
+  #container {
+    width: 600px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+}
+
+/* Menu goes to the left
+--------------------------------------------------------- */
+
+@media (min-width: 790px) {
+
+  #container {
+    margin-left: 150px;
+  }
+
+  #menu {
+    font-size: 1.5em;
+    margin: 0;
+    position: fixed;
+    top: 25px;
+    left: 25px;
+    text-align: left;
+  }
+  
+  #menu li {
+    margin: 0 0 10px 0;
+    display: block;
+  }
+  
+  #menu li a:hover {
+    margin-left: 2px;
+  }
+
+}
+
+/* Main window flows to the center
+--------------------------------------------------------- */
+
+@media (min-width: 900px) {
+  
+  #container {
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+}
