@@ -1,13 +1,18 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 100%;
+  color: #2e2e2e;
+}
+
 h1, h2, h3, h4, h5, h6 {
   text-rendering: optimizelegibility;
-  font-weight: normal;
-  font-family: "Akkurat-Bold", serif; 
+  font-weight: bold;
+  font-family: "Helvetica Neue", Helvetica, serif; 
 }
 
 h1 {
-  line-height: 42px;
-  font-size: 30px;
-  margin-bottom: 11px;
+  font-size: 1.8em;
+  margin-bottom: 1em;
   letter-spacing: -0.5; 
 }
 
@@ -29,8 +34,10 @@ h4 {
 }
 
 p {
-  margin-bottom: 11px;
-  line-height: 22px; 
+  margin-bottom: 1.2em;
+  font-family: 'Merriweather';
+  line-height: 1.6em;
+  font-size: 1em;
 }
 
 a {

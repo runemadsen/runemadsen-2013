@@ -7,7 +7,6 @@ pagination_enabled: true
 {% for post in paginator.posts %}
   <div class="time">{{ post.date | date: "%d %B, %Y" }}</div>
   <h1>{{ post.title }}</h1>
-  <a href="{{ post.url }}">Permalink</a>
   {{ post.content }}
 {% endfor %}
 
