@@ -51,6 +51,13 @@ iframe {
   text-decoration: none;
 }
 
+/* Overflow classes
+--------------------------------------------------------- */
+
+.wide-750 {
+  margin-bottom: 2em;
+}
+
 /* Content goes from fluid to 600px fixed
 --------------------------------------------------------- */
 
@@ -80,8 +87,8 @@ iframe {
     font-size: 1.5em;
     margin: 0;
     position: fixed;
-    top: 25px;
-    left: 25px;
+    top: 34px;
+    left: 30px;
     text-align: left;
   }
   
@@ -104,6 +111,17 @@ iframe {
   #container {
     margin-right: auto;
     margin-left: auto;
+  }
+}
+
+/* Wide classes bump out
+--------------------------------------------------------- */
+
+@media (min-width: 1015px) {
+
+  .wide-750 {
+    margin-left: -75px;
+    margin-right: -75px;
   }
 
 }

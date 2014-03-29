@@ -4,10 +4,14 @@ category: blog
 pagination_enabled: true
 ---
 
+<h1>Blog</h1>
+
 {% for post in paginator.posts %}
-  <div class="time">{{ post.date | date: "%d %B, %Y" }}</div>
-  <h1>{{ post.title }}</h1>
-  {{ post.content }}
+  <section class="post">
+    <div class="time">{{ post.date | date: "%d %B, %Y" }}</div>
+    <h2>{{ post.title }}</h2>
+    {{ post.content }}
+  </section>
 {% endfor %}
 
 {{ paginator | pager_links }}

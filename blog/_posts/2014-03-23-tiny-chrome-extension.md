@@ -6,7 +6,9 @@ categories: blog
 permalink: "blog/tiny-chrome-extension"
 ---
 
-<img alt="header hunter" src="{% asset_path blog/headerhunter.jpg %}" />
+<div class="wide-750">
+  <img alt="header hunter" src="{% asset_path blog/headerhunter.jpg %}" />
+</div>
 
 I made a silly one-day hack in the form a Chrome extension called [Header Hunter](https://chrome.google.com/webstore/detail/headerhunter/almeoedichpmgpjhobhenfacacpohbma). It's a simple Google Chrome extension that will show a small alert whenever you visit a website that returns recruitment messages in the HTTP headers.
 
