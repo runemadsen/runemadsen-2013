@@ -20,14 +20,22 @@ The big takeaways are:
 
 Here's the god configuration file we use to start the processes the first time. Notice how we make god keep track of the process PID's in a custom folder, so we can later use them in a rake script to kill the processes.
 
-<script src="https://gist.github.com/3455396.js?file=god.rb"> </script>
+<div class="wide-750">
+  <script src="https://gist.github.com/3455396.js?file=god.rb"> </script>
+</div>
 
 Here's the Capfile and deploy.rb that we use to make Jenkins deploy the new code, install dependencies via bundler, and kill the processes. Normally Capistrano creates all the "current", "releases" and "shared" folders to keep track of different revisions of the code. However, Git has this built in, so this script will just deploy the code directly into the deploy_to folder. Clean and simple. Notice how we override the normal Capistrano methods in order to provide rollback functionality directly in git.
 
-<script src="https://gist.github.com/3455396.js?file=Capfile"> </script>
+<div class="wide-750">
+  <script src="https://gist.github.com/3455396.js?file=Capfile"> </script>
+</div>
 
-<script src="https://gist.github.com/3455396.js?file=deploy.rb"> </script>
+<div class="wide-750">
+  <script src="https://gist.github.com/3455396.js?file=deploy.rb"> </script>
+</div>
 
 Lastly, here's the rake script that kills the processes. God will start them up again in order to reload the code.
 
-<script src="https://gist.github.com/3455396.js?file=Rakefile"> </script>
+<div class="wide-750">
+  <script src="https://gist.github.com/3455396.js?file=Rakefile"> </script>
+</div>

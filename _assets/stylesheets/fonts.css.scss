@@ -42,6 +42,23 @@ p {
 
 a {
   text-decoration: none;
+  color: #2D97C0;
+}
+
+a:visited {
+  color: #7A4E9C;
+}
+
+a:hover {
+  color: #ACCAD6;
+}
+
+a h2 {
+  color: #2e2e2e;
+}
+
+a h2:hover {
+  color: #ADADAD;
 }
 
 h1.underline, #printing-code-body h1 {
@@ -57,10 +74,6 @@ h2.underline, #printing-code-body h2 {
   margin-bottom: 15px;
   border-bottom: 2px solid #2e2e2e;
   padding-bottom: 12px;
-}
-
-a:hover {
-  color: #4d4c4d; 
 }
 
 blockquote {

@@ -13,42 +13,49 @@
 
 #page-nav {
   margin-top: 22px;
-  border-top: 3px solid #2e2e2e;
-  padding-top: 22px;
   margin-bottom: 33px;
+  font-weight: bold;
+  font-size: 1.2em;
+}
+
+#page-nav a {
+  color: #2e2e2e;
+}
+
+#page-nav a:hover {
+  color: #ADADAD;
 }
 
 /* Gist styling
 ------------------------------------------- */
 
-.post-main-right .gist {
+.post .gist {
   margin: 22px 0px;
+  font-size: 0.9em;
 }
 
-.post-main-right .gist .gist-file {
-  font-size: 13px;
+.post .gist .gist-file {
   border: none;
 }
 
-.post-main-right .gist .gist-file .gist-data {
+.post .gist .gist-file .gist-data {
   background-color: #e6e6e6;
   padding: 10px 15px;
 }
 
-.post-main-right .gist .gist-file .gist-highlight {
+.post .gist .gist-file .gist-highlight {
   padding: 0;
 }
 
-.post-main-right .gist .gist-file .gist-meta {
+.post .gist .gist-file .gist-meta {
   background-color: #e6e6e6;
-  font-size: 10px;
   font-family: Helvetica, Arial, sans-serif;
   color: #bebebe;
 }
 
-.post-main-right .gist .gist-file .gist-meta a,
-.post-main-right .gist .gist-file .gist-meta a:visited,
-.post-main-right .gist .gist-file .gist-meta a:link {
+.post .gist .gist-file .gist-meta a,
+.post .gist .gist-file .gist-meta a:visited,
+.post .gist .gist-file .gist-meta a:link {
   text-decoration: none;
   color: #bebebe !important;
   border-bottom: none;
