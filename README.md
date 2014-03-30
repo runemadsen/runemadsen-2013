@@ -6,7 +6,7 @@ The following is the jekyll setup running on runemadsen.com.
 TODO
 ----
 
-- Make image class with negative margins. Possibly different classes with different margins, so I can go big on the work page? They should all resize on the different sizes.
+- Add "Talks" menu item, with Printing Code, my class
 
 
 Deployment
