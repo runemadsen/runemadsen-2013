@@ -11,4 +11,6 @@ permalink: "work/drift-logo"
 
 Logo design for the iPad app "Drift".
   
-<img src="{% asset_path work/drift.jpg %}" />
+<div class="wide-750">
+  <img src="{% asset_path work/drift.jpg %}" />
+</div>

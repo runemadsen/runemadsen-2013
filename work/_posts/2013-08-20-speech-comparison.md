@@ -17,7 +17,9 @@ By pressing keys 1-9 you can highlight a single speech to get an overview of the
 
 You can find the [Source code on Github](http://github.com/runemadsen/SpeechComparison).
 	
-<img src="{% asset_path work/speech-comparison.jpg %}" />
+<div class="wide-750">
+  <img src="{% asset_path work/speech-comparison.jpg %}" />
+</div>
 
 <img src="{% asset_path work/speech-comparison2.jpg %}" />
 

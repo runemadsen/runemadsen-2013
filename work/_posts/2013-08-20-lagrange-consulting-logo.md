@@ -9,8 +9,8 @@ poster: work/lagrange.jpg
 permalink: "work/lagrange-consulting-logo"
 ---
 
+Logo design for the IT consultant firm Lagrange Consulting.
+
 <div class="wide-750">
   <img src="{% asset_path work/lagrange.jpg %}" />
 </div>
-
-Logo design for Lagrange Consulting.

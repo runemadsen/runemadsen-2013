@@ -12,7 +12,7 @@ permalink: "work/ohland-balloon-visuals"
 The Balloon Projections is a set of interactive visuals made for the Danish musician [Oh Land](http://www.ohlandmusic.com). During live performances the balloons interact with specific parts of the music, that being projected heads singing background vocals or blinking lights triggered by the drums. The result is a real-time interaction between the musicians in Oh Land and their background visuals.
 
 <div class="wide-750">
-  <img src="{% asset_path work/balloon-projections.jpg %}" />
+  <iframe src="http://player.vimeo.com/video/17891021?color=ffffff" width="750" height="423" frameborder="0"> </iframe>
 </div>
 
 The central part of the Ballon Projections is a custom piece of software written in C++ and the open source visual framework [OpenFrameworks](http://www.openframeworks.cc). The software includes an interactive plotter to record the position of the ballons, a MIDI listener that receives notes from the musicians, and a visual playlist loader that makes it easy to map specific songs to specific visual outputs.
@@ -49,11 +49,10 @@ This project is a collaboration with [Paul Rothman](http://www.fridgebuzzz.com/)
 * [Danish Singer Oh Land's Singing Balloons](http://www.flickr.com/photos/stylespotting/5412378327/)
 * [Oh Land has the curiosity-seekers saying ‘Oh, yes’](http://buzzbands.la/2011/02/05/oh-land-has-the-curiosity-seekers-saying-oh-yes/)
 
-
 <div class="wide-750">
-  <iframe src="http://player.vimeo.com/video/17891021?color=ffffff" width="750" height="423" frameborder="0"> </iframe>
+  <iframe width="750" height="423" src="http://www.youtube.com/embed/9wqtakrB12E" frameborder="0"> </iframe>
 </div>
 
-<div class="wide-760">
-  <iframe width="750" height="423" src="http://www.youtube.com/embed/9wqtakrB12E" frameborder="0"> </iframe>
+<div class="wide-750">
+  <img src="{% asset_path work/balloon-projections.jpg %}" />
 </div>
