@@ -9,14 +9,8 @@ poster: work/pointcom.jpg
 permalink: "work/pointcom-logo"
 ---
 
-<div class="project" >
-  <div class="grid_5">
-    <h2>Pointcom</h2>
-    <div class="long-description"><p>Logo design for Point Communications.</p></div>
-  </div>
-  <div class="grid_7">
-    <div class="clear"></div>
-    <p><img src="{% asset_path work/pointcom.jpg %}" /></p>
-  </div>
-  <div class="clear"></div>
+Logo design for Point Communications.
+
+<div class="wide-750">
+  <img src="{% asset_path work/pointcom.jpg %}" />
 </div>
