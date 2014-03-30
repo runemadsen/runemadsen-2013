@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: work
 title: O'Reilly Atlas
 date: 2013-08-23 22:00:00
 excerpt: |

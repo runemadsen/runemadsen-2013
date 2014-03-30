@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: work
 title: People Watching Plus
 date: 2011-05-13 22:00:00
 excerpt: |

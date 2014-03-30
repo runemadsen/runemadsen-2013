@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: work
 title: Versionize
 date: 2011-05-01 22:00:00
 excerpt: |

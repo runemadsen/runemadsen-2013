@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: work
 title: The Artist is not Present
 date: 2014-04-06 16:41:00
 excerpt: |

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: work
 title: Reservoir
 date: 2011-05-08 22:00:00
 excerpt: |
