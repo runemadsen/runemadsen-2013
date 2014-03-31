@@ -9,7 +9,7 @@
   {% javascript app %}
   {% include analytics.html %}
 </head>
-<body>
+<body{% if page.bodyID %} id="{{page.bodyID}}"{% endif %}>
   {% include menu.html %}
   <div id="container">
     {{ content }}
