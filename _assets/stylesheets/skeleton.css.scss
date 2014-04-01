@@ -24,6 +24,10 @@ iframe {
   display:block;
 }
 
+#container iframe {
+  max-width: 100%;
+}
+
 #menu {
   list-style: none;
   text-transform: uppercase;
@@ -56,6 +60,8 @@ iframe {
 
 .wide-750 {
   margin-bottom: 2em;
+  margin-left: -20px;
+  margin-right: -20px;
 }
 
 /* Content goes from fluid to 600px fixed
