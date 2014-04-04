@@ -33,11 +33,17 @@ h4 {
   line-height: 26px; 
 }
 
-p {
+#container p {
   margin-bottom: 1.2em;
   font-family: 'Merriweather';
   line-height: 1.6em;
-  font-size: 1em;
+  font-size: 15px;
+}
+
+#container ul li {
+  font-family: 'Merriweather';
+  line-height: 1.6em;
+  font-size: 15px;
 }
 
 a {
