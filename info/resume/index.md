@@ -99,6 +99,7 @@ Artistic work developed through commisssions from galleries, international art f
 
 ## Guest Lectures
 
+* Anderson Ranch, Graphic Design and Data Visualization in Processing, July 2014
 * Studio 20, NYU School of Journalism, April 2013
 * Pratt Lecture Series, New York, April 2013. Graphic Design as a System.
 * Heroku Waza Conference, San Francisco, February 2013. Conference talk on graphic design and code.
