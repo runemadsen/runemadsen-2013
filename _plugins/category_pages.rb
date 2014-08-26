@@ -47,7 +47,7 @@ module Jekyll
 
   end
   
-  class CategoryPager < Pager
+  class CategoryPager < Jekyll::Paginate::Pager
 
     attr_reader :category
 
