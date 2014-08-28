@@ -18,6 +18,6 @@ Deployment
 
 Run this to deploy to S3:
 
-```bach
-s3cmd sync --guess-mime-type --cf-invalidate --acl-public _site/ s3://runemadsen.com
+```bash
+bash deploy.sh
 ```
