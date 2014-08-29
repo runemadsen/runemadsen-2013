@@ -17,10 +17,10 @@ Continuing down the path of documenting my design book collection, this next boo
   <img src="{% asset_path blog/books/thoughtsondesign2.jpg %}" />
 </div>
 
-Even though the short texts mostly touch on advertising related subjects (*The Symbol in Advertising*, *Reader participation*, etc), they hold a great deal of the general design theory that he is known for (and that fills many of his later books).
+Even though the short texts touch mostly on advertising related subjects (*The Symbol in Advertising*, *Reader participation*, etc), they hold a great deal of the general design theory that he is known for (and that fills many of his later books).
 
 <div class="wide-750">
   <img src="{% asset_path blog/books/thoughtsondesign3.jpg %}" />
 </div>
 
-It's still mind-boggling to me that this book was written in 1947, at a time where advertising art was dominated by [pastel colors and handwritten quotations](https://www.google.com/search?q=advertising+1940%27s&espv=2&source=lnms&tbm=isch&sa=X&ei=LZD-U6m-Gca7ogSCyIGoBg&ved=0CAYQ_AUoAQ&biw=1393&bih=802). I often have to remind myself that one of my favorite works of Paul Rand – the poster to the movie [*No Way Out (1950)*](http://img1.wikia.nocookie.net/__cb20140108215153/scratchpad/images/e/ee/1950_-_No_Way_Out_Movie_Poster.jpg), was created just a couple of years after the World War 2. There's obivously a lot more to say about Rand, and I'll try to get around to it when documenting his later books.
+It's still mind-boggling to me that this book was written in 1947, at a time where advertising art was dominated by [pastel colors and handwritten quotations](https://www.google.com/search?q=advertising+1940%27s&espv=2&source=lnms&tbm=isch&sa=X&ei=LZD-U6m-Gca7ogSCyIGoBg&ved=0CAYQ_AUoAQ&biw=1393&bih=802). I often have to remind myself that one of my favorite works of Paul Rand – the poster to the movie [*No Way Out (1950)*](http://img1.wikia.nocookie.net/__cb20140108215153/scratchpad/images/e/ee/1950_-_No_Way_Out_Movie_Poster.jpg), was created just a couple of years after World War 2. There's obivously a lot more to say about Rand, and I'll try to get around to it when documenting his later books.
