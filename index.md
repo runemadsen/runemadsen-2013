@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Rune Madsen
 bodyID: front
 ---
 

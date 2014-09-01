@@ -1,4 +1,11 @@
+# Site settings
+title: Rune Madsen - Multimedia Artist
 name: Rune Madsen
+email: rune@runemadsen.com
+description: "Rune Madsen is a Danish designer, programmer, artist and educator living in New York City."
+twitter_username: runemadsen
+github_username:  runemadsen
+url: "http://www.runemadsen.com"
 highlighter: pygments
 permalink: /:categories/:title
 exclude: [Gemfile, Gemfile.lock]
