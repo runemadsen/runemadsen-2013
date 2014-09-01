@@ -8,8 +8,6 @@ TODO
 
 - Fix 404 page
 - Favicon
-- Page title not showing up
-- Metadata
 - Add "Talks" menu item, with Printing Code, my class
 
 
