@@ -3,6 +3,8 @@ layout:     blog
 title:      "Graphis Diagrams"
 date:       2014-09-11 14:22:00
 categories: blog
+description: "The Graphis Diagrams book was released in 1974. Here's a description of the book with pictures."
+keywords: "Graphis Diagrams, data visualization, graphic design book, art book, graphic design systems, grid system"
 ---
 
 Lately I've been writing about data visualization and its connection to our broader graphic design history. This reminded me of this book, *Graphis Diagrams*, first published in 1974. To put things in perspective, this was 7 years before the release of the [Xerox Star computer](https://www.google.com/search?q=polaroids+xerox+star&espv=2&biw=1252&bih=802&tbm=isch&tbo=u&source=univ&sa=X&ei=6OgRVJDdGfeJsQTty4GwDw&ved=0CB0QsAQ), which pretty much defined the way we think of modern day computers and their interfaces.
