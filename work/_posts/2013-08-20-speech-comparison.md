@@ -4,6 +4,8 @@ title: Speech Comparison
 date: 2011-05-10 22:00:00
 excerpt: |
   This interactive infographic is a data visualization of word usage in 9 famous speeches.
+description: "This interactive infographic is a data visualization of word usage in 9 famous speeches."
+keywords: "Data visualization, Processing, infographic, minimalism"
 categories: work
 poster: work/speech-comparison.jpg
 permalink: "work/speech-comparison"
