@@ -7,41 +7,31 @@ Rune Skjoldborg Madsen
 
 ## Profile
 
-Danish designer, programmer, artist and educator. Designs and builds web applications, interactive installations, algorithmic graphic design systems, and many other things involving artistic use of computation. Believes in simplicity, organized complexity, and that the pragmatic and poetic is inseperable.
+Danish designer, programmer, and artist. Designs and builds web applications, interactive installations, algorithmic graphic design systems, and many other things involving artistic uses of computation. Believes in simplicity, organized complexity, and that the pragmatic and poetic is inseparable.
 
 ### Programming
 
-Senior experience in a multitude of programming languages, frameworks and databases.
-
-* Ruby (Rails, Sinatra)
-* Javascript (JQuery, Backbone, Underscore)
-* C++ (OpenFrameworks, Cinder, poCode)
-* Java (Processing)
-* Golang(Martini)
-* Wiring (Arduino)
-* SQL, CouchDB, RethinkDB, MongoDB, Redis
-* Git object model
-
+Ruby, Javascript, Golang, C++, Java, Arduino. And a never stopping pursuit for to learn new ones.
 
 ### Design
 
-Senior experience in graphic design, interface design, and generative design. Thorough knowledge of existing digital tools (Photoshop, Illustrator), computational design tools (Processing, OpenFrameworks, etc), and the history of graphic design.
+HTML and CSS. UI / UIX. An ongoing passion for generative design and graphic design systems. Fallback to Photoshop and Illustrator if needed.
 
 ## Professional Experience
 
 ### Director of Software Development, O'Reilly Media (Dec 2013 - Ongoing)
 
-Directing the [O'Reilly Atlas](https://atlas.oreilly.com) project, a web application aimed at simplifying the creation and distribution of digital content. Reponsible for application architecture, development and UI design. Atlas is a Git-backed writing and production tool that exports books as PDF, ePub, Mobi and HTML, from a single source Markdown, Asciidoc or HTML file, styled with CSS only.
+Managing a group of 5 developers on the [O'Reilly Atlas](https://atlas.oreilly.com) project. Lead on the oreilly.com redesign project.
 
-### Computational Designer and Developer, O'Reilly Media (Oct 2012 - Dec 2013)
+### Designer and Software Engineer, O'Reilly Media (Oct 2012 - Dec 2013)
 
-Lead designer and developer on the [O'Reilly Atlas](https://atlas.oreilly.com) web application, a project project aimed at simplifying the creation and distribution of digital content. Atlas is a Git-backed writing and production tool that exports books as PDF, ePub, Mobi and HTML, from a single source Markdown, Asciidoc or HTML file, styled with CSS only.
+Lead designer and architect for [O'Reilly Atlas](https://atlas.oreilly.com), a web application aimed at simplifying the creation and distribution of digital content based on a Git workflow.
 
 ### Adjunct Professor, ITP, New York University (Sep 2012 - Ongoing)
 
-Taught several graduate classes in the intersection of programming, design and web. [Printing Code](http://printingcode.runemadsen.com) is a course where students explore the use of computational techniques to produce physical prints, focusing on the intersection between graphic design and code. [Communications Lab: Web](https://github.com/ITPNYU/CommLabWeb) is a course introducing students to the basics of HTTP and client-server side communication in Ruby and Sinatra.
+Taught graduate classes in the intersection of programming, design and web. [Printing Code](http://printingcode.runemadsen.com) is a course where students explore the use of computational techniques to produce physical prints, focusing on the intersection between graphic design and code. [Communications Lab: Web](https://github.com/ITPNYU/CommLabWeb) is a course introducing students to the basics of HTTP and client-server side communication in Ruby and Sinatra.
 
-### Interactive Developer, The New York Times (Jan 2011 - Jan 2012)
+### Developer, The New York Times (Jan 2011 - Jan 2012)
 
 Responsible for interactive multimedia features for the New York Times website, with over 30 million unique visitors per month. Developed numerous front-page features, including [9/11 Tapes](http://nyti.ms/TCUA9q), [The Ruth Madoff Interview](http://nyti.ms/WUTYSD), and developed the annotation system used for the interactive debate transcripts for the [first](http://nyti.ms/UhQVMP), [second](http://nyti.ms/Xvteam) and [third](http://nyti.ms/TqkayG) presidential debate, plus the [vice-presidential debate](http://nyti.ms/UhR3ff). Worked with big data sets from the [Project Cascade](http://bit.ly/QzgOMw) twitter visualization to create journalistic tools to facilitate an understanding of the way news spread on Twitter.
 
@@ -49,7 +39,7 @@ Responsible for interactive multimedia features for the New York Times website, 
 
 Consultant for Danish and international companies, including Lego, Saxo Bank, Elsparefonden and TV2 Denmark. Project leader on the re-design of the international website and digital catalogue for Innovation Furniture. Teaching consultant for Lego, Dong Energy and ARoS Museum of Modern Art. Semi-finalist in the Adobe Design Awards 2009.
 
-### Web Developer, e-mergency (Jan 2008  - Oct 2008)
+### Developer, e-mergency (Jan 2008  - Oct 2008)
 
 Lead developer, designer and project leader on 20+ web projects, using Open Source software such as Joomla, Wordpress and Drupal. Clients included TV2 Denmark, State of Mind, SportsStudy and Servicemind. Responsiblities included graphic design and web development using Flash, PHP and Javascript. Daily maintenance of 100+ websites.
 

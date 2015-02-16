@@ -6,7 +6,7 @@ bodyID: front
 Welcome
 =======
 
-My name is Rune Madsen, and I'm a Danish designer, programmer, artist and educator living in New York City. I design and build web applications, interactive installations, algorithmic graphic design systems, and many other things involving artistic uses of computation. I believe in simplicity, organized complexity, and that the pragmatic and poetic is inseparable.
+My name is Rune Madsen, and I'm a Danish designer, programmer, and artist living in New York City. I design and build web applications, interactive installations, algorithmic graphic design systems, and many other things involving artistic uses of computation. I believe in simplicity, organized complexity, and that the pragmatic and poetic is inseparable.
 
 <div class="wide-750">
   <a href="/work/ohland-balloon-visuals"><img src="{% asset_path front/balloons.jpg %}" /></a>

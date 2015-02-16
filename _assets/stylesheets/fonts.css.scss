@@ -34,7 +34,9 @@ h4 {
 }
 
 #container p,
-#container ul {
+#container ul,
+#container ol,
+#container ul, {
   margin-bottom: 1.2em;
   font-family: 'Merriweather';
   line-height: 1.8em;
@@ -120,4 +122,29 @@ ul.options li {
 ul.options a {
   color: #4d4c4d;
   border: none;
+}
+
+ol.bignums {
+  list-style: none;
+  margin-left: 0;
+}
+
+ol.bignums li {
+  clear: both;
+  border-bottom: 1px solid #E8E8E8;
+  padding-bottom: 1em;
+  margin-bottom: 1em;
+}
+
+ol.bignums .bignum {
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  color: #C3C3C3;
+  display: block;
+  float: left;
+  width: 60px;
+  height: 40px;
+  padding-left: 0.2em;
+  padding-top: 0.3em;
+  font-size: 2.5em;
 }
