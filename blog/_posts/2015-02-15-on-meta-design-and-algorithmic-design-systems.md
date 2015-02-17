@@ -7,7 +7,7 @@ description: "The rise of the meta-designer, and the use of algorithmic design s
 keywords: "graphic, design, systems, creative, code, algorithms"
 ---
 
-> Meta-design is much more difficult than design; it’s easier to draw something than to explain how to draw it. - Donald Knuth, The Metafont Book
+> "Meta-design is much more difficult than design; it’s easier to draw something than to explain how to draw it" - Donald Knuth, The Metafont Book
 
 This is the first of hopefully many posts describing something I see as a continuing trend in the design world: The rise of the meta-designer, and the use of algorithmic design systems.
 

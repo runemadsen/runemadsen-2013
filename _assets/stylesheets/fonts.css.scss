@@ -80,17 +80,17 @@ h2.underline, #printing-code-body h2 {
 }
 
 blockquote {
-  line-height: 22px;
-  border-left: 3px solid #4d4c4d;
-  padding: 7px 15px;
+  
+  padding: 20px;
   margin: 22px 0px;
   background-color: #e6e6e6;
-  font-style: italic;
-  font-size: 0.9em;
 }
 
-blockquote p {
-  margin-top: 1.2em;
+#container blockquote p {
+  margin: 0;
+  line-height: 1.6em;
+  color: #3a3a3a;
+  font-style: italic;
 }
 
 address {
