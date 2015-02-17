@@ -23,7 +23,7 @@ As a simple example, consider these two logos for the Jewish Museum in New York.
   <img src="{% asset_path blog/jewish.jpg %}" />
 </div>
 
-The older logo on the left is a classic, static design product. The new logo by [Sagmeister & Walsh](http://www.sagmeisterwalsh.com/) on the right is just one output from a design system that can be used to [generate a multitude of design products](http://www.sagmeisterwalsh.com/work/project/jewish-museum-identity/). The system, built on concepts inspired by sacred geometry, is the actual achievement.
+The older logo on the left is a classic, static design product. The new logo by [Sagmeister & Walsh](http://www.sagmeisterwalsh.com/) on the right is just one output from a design system with rules inspired by sacred geometry, that can be used to [generate a multitude of design products](http://www.sagmeisterwalsh.com/work/project/jewish-museum-identity/).
 
 I believe this to be an important evolution in the design profession, and there are several factors that has lead me to this conclusion.
 
@@ -31,11 +31,13 @@ I believe this to be an important evolution in the design profession, and there 
 
   <li>
     <span class="bignum">1</span>
-    <strong>Design products are becoming increasingly complex.</strong> As our world turns  digital, the need for static designs goes away. Our deliverables are now complex systems, and for these, it's hard to say where the design stops and the technical implementation begins. <a href="http://daringfireball.net/2012/02/walter_isaacson_steve_jobs">Design is how it works</a>. For even the simplest of data visualizations, the design process itself is hours of work in languages like R, Julia or Python. When your content is data, poking around in Photoshop simply makes no sense. In some way, it's the direct opposite of design: prettifying without context. Visual thinking is increasingly done in code, and there is not much you can do if you can't program. I expect this to only become clearer as the demands for our design products increase.</li>
+    <strong>Design products are becoming increasingly complex.</strong> As our world turns  digital, the need for static designs goes away. Our deliverables are now complex systems, and for these, it's hard to say where the design stops and the technical implementation begins. <a href="http://daringfireball.net/2012/02/walter_isaacson_steve_jobs">Design is how it works</a>. For even the simplest of data visualizations, the design process itself is hours of work in languages like R, Julia or Python. When your content is data, poking around in Photoshop simply makes no sense. In some way, it's the direct opposite of design: prettifying without context. Visual thinking is increasingly done in code, and there is not much you can do if you can't program. I expect this to only become clearer as the demands for our design products increase.
+  </li>
 
   <li>
     <span class="bignum">2</span>
-    <strong>A new generation of designers</strong>, who grew up with the internet, is starting to occupy important design positions in the U.S and abroad. For these designers, programming is a natural tool for creating the design products they desire, and their creative process is often built on a very systematic approach to design. They find grid systems and spacing much easier to code than to draw in Photoshop, and only fully appreciate color models when exploring them in a 3D space. They are as talented in composition and layout as in programmatic design patterns, and find the divide between the creative and technical processes problematic. This means that they often struggle to work in environments that enforce a traditional <em>art director</em> hierarchy. Most important of all, they use code to liberate themselves from the manual techniques enforced upon them from traditional design software.</li>
+    <strong>A new generation of designers</strong>, who grew up with the internet, is starting to occupy important design positions in the U.S and abroad. For these designers, programming is a natural tool for creating the design products they desire, and their creative process is often built on a very systematic approach to design. They find grid systems and spacing much easier to code than to draw in Photoshop, and only fully appreciate color models when exploring them in a 3D space. They are as talented in composition and layout as in programmatic design patterns, and find the divide between the creative and technical processes problematic. This means that they often struggle to work in environments that enforce a traditional <em>art director</em> hierarchy. Most important of all, they use code to liberate themselves from the manual techniques enforced upon them from traditional design software.
+  </li>
   
   <li>
     <span class="bignum">3</span>
@@ -47,21 +49,18 @@ I believe this to be an important evolution in the design profession, and there 
     <strong>Systems are an important part of our design history</strong>. I find this point extremely important, as it's something I realized rather late in my design education. Even though design can seem like an extremely subjective art form, the fundamentals of design are not, and <a href="http://printingcode.runemadsen.com/lecture-intro/">the history of graphic design is full of artists applying rules or systems to their creative process</a>. Before the computer was a household item, Karl Gerstner even wrote a book called <em><a href="http://runemadsen.com/blog/karl-gerstner-designing-programmes/">"Designing Programmes"</a></em>, outlining many of these exact ideas. However, taking the other factors into consideration, we are at a point in history where these "programs" can be more than theoretical instructions for a manual workflow. We now have the ability to write algorithmic systems that create designs, and the star designers of the future will be the ones who deliver on that promise.
   </li>
 
-  <li>This is already happening. Sagmeister+Walsh, mit logo.
-
 </ol>
 
-Why is this not just a branding manual?
+As my logo example showed, some companies are moving in this director.
+
+
+
+
 
 Bounded rationality in complex products: trust, experience. No big spreadsheets.
 
 http://qz.com/260846/why-our-startup-has-no-bosses-no-office-and-a-four-day-work-week/
 Engineers shouldn’t be supervised by project managers with limited technical knowledge.
-
-What does this enable?
-Variable outputs
-Less labor after the fact
-Dynamic designs. The idea is in code, but can be variable.
 
 There's an interesting line in Ed Catmull's book on Pixar, Creativity Inc, where he describes how animators we reluctant to use modern equipment. Wanted to do it like Disney. They forgot taht disney was relentless in pursuing new technology, and had it been available, it would have been used. The same goes for graphic design.
 
