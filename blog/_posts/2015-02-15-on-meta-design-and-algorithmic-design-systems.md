@@ -5,11 +5,16 @@ date:       2015-02-15 19:41:00
 categories: blog
 description: "The rise of the meta-designer, and the use of algorithmic design systems."
 keywords: "graphic, design, systems, creative, code, algorithms"
+poster: blog/vw.jpg
 ---
 
-> "Meta-design is much more difficult than design; it’s easier to draw something than to explain how to draw it" - Donald Knuth, The Metafont Book
+<div class="wide-750">
+  <img src="{% asset_path blog/vw.jpg %}" />
+</div>
 
 This is the first of hopefully many posts describing something I see as a continuing trend in the design world: The rise of the meta-designer and algorithmic design systems.
+
+> "Meta-design is much more difficult than design; it’s easier to draw something than to explain how to draw it" - Donald Knuth, The Metafont Book
 
 Until recently, the term *Graphic Designer* was used to describe artists with their roots firmly planted in the fine arts. Aspiring design students graduated with MFA degrees, and their curriculums were based on traditions from painting, sculpture and architecture: The concepts of form, color and composition were introduced through manual exercises, like the paper-based color experiments from Josef Alber's *The Interaction of Color*. Paul Rand famously said: *"It's important to use your hands. This is what distinguishes you from a cow or a computer operator"*. At best, this teaches the designer not to be dictated by their given tool. At worst, the designer is institutionalized to think of themselves as an ideator, as a direct opposite to a technical person. 
 
@@ -52,6 +57,8 @@ I believe this to be an important evolution in the design profession, and there 
 As my logo example showed, some companies are moving in this director.
 
 
+
+*If you liked this post, I'm [@runemadsen](https://www.twitter.com/runemadsen) on Twitter*
 
 
 A link to the dynamic identities book.
