@@ -20,7 +20,7 @@ Until recently, the term *Graphic Designer* was used to describe artists with th
 
 This has obviously changed with the advent of computers (and the field of web design in particular), but not to the degree that one would expect. Despite recent efforts in defining digital-first design vocabularies, like [Google's Material Design](http://www.google.com/design/spec/material-design/introduction.html), the legacy of the printed page is still all around us. Even the most adept companies are organized around principles inherited from desktop publishing, and when the lines are drawn, we still have either design or engineering departments. Products start as static layouts in the former and become dynamic implementations in the latter. Designers use tools modeled after manual processes that came way before the computer, while engineers work in text-based environments. I think that this is about to change in a fundamental way, and like Donald Knuth, I'll call this a transition from design to meta-design.
 
-In a traditional design practice, the designer works directly on a design product. Be it a logo, website, or a set of posters, the designer is the instrument to produce the final deliverable. However, a meta-designer works to distill this instrumentation into a design system, often written in software, that can create the final product. Instead of drawing it, she is programming the system to draw it. These systems can then be used, with different content and variable outputs, to generate a range of design products without much effort.
+So what is meta-design? In a traditional design practice, the designer works directly on a design product. Be it a logo, website, or a set of posters, the designer is the instrument to produce the final deliverable. However, a meta-designer works to distill this instrumentation into a design system, often written in software, that can create the final product. Instead of drawing it, she is programming the system to draw it. These systems can then be used, with different content and variable outputs, to generate a range of design products without much effort.
 
 <div class="wide-750">
   <img src="{% asset_path blog/casa.jpg %}" />
@@ -54,47 +54,11 @@ I believe this to be an important evolution in the design profession, and there 
 
 </ol>
 
-As my logo example showed, some companies are moving in this director.
+SPECULATE ON WHAT THE FUTURE WILL BE LIKE
+- education will need to change
+- a new era of design companies will arise
+- I'm talking about much more than data visualization or web design.
 
-
+There's a few indicators that [this future is already here](http://en.wikiquote.org/wiki/William_Gibson). [Some design companies](sagmeisterwalsh.com) are actively exploring similar themes. Academic institutions make this a focus for [new publications](http://www.amazon.com/Dynamic-Identities-Cultural-Public-Context/dp/3037781637). Independent design magazines are [writing](http://www.dot-dot-dot.us/) [about](http://www.servinglibrary.org/) these trends.
 
 *If you liked this post, I'm [@runemadsen](https://www.twitter.com/runemadsen) on Twitter*
-
-
-A link to the dynamic identities book.
-
-Bounded rationality in complex products: trust, experience. No big spreadsheets.
-
-http://qz.com/260846/why-our-startup-has-no-bosses-no-office-and-a-four-day-work-week/
-Engineers shouldn’t be supervised by project managers with limited technical knowledge.
-
-There's an interesting line in Ed Catmull's book on Pixar, Creativity Inc, where he describes how animators we reluctant to use modern equipment. Wanted to do it like Disney. They forgot taht disney was relentless in pursuing new technology, and had it been available, it would have been used. The same goes for graphic design.
-
-I AM NOT JUST TALKING ABOUT WEB DESIGN.
-Tendency can already be seen with traditional design agencies like Sagmeister+Walsh.
-
-!! DESCRIBE THE NEW THING !! I use the word meta-design to describe this: Someone who is as good at systems than at design.
-
-
-Difficulties: 
-
-- This makes hiring easier.
-- Becoming a talented software engineer takes years of practice. The same can be said of designers.
-- It's not a terrific process to code your designs.
-
-I am not arguing against specialization, nor am I saying that the left/right brain phenomena doesn't exist. But it's a fact that many new designers consider code as their tool, as a painter sees a brush. The term *programmer* is not a technicala term any more. It's a tool like the pen, and we can't use it do divide people into groups.
-
-
-The future is owned by....
-
-Something about NOT coding is the new literacy. Read through and say "modeling" instead?
-
-This has drastic implications to education and the structure of our organizations. Disruption in inevitable.
-
-I have a plan to start writing my book.
-
-
-Things to say:
-
-What is meta-design?
-How does a designer learn to program?
