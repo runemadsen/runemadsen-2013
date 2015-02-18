@@ -59,6 +59,6 @@ SPECULATE ON WHAT THE FUTURE WILL BE LIKE
 - a new era of design companies will arise
 - I'm talking about much more than data visualization or web design.
 
-There's a few indicators that [this future is already here](http://en.wikiquote.org/wiki/William_Gibson). [Some design companies](sagmeisterwalsh.com) are actively exploring similar themes. Academic institutions make this a focus for [new publications](http://www.amazon.com/Dynamic-Identities-Cultural-Public-Context/dp/3037781637). Independent design magazines are [writing](http://www.dot-dot-dot.us/) [about](http://www.servinglibrary.org/) these trends.
+There's a few indicators that this future is already here. [Some design companies](sagmeisterwalsh.com) are actively exploring similar themes. Academic institutions make this a focus for [new publications](http://www.amazon.com/Dynamic-Identities-Cultural-Public-Context/dp/3037781637). Independent design magazines are [writing](http://www.dot-dot-dot.us/) [about](http://www.servinglibrary.org/) these trends.
 
 *If you liked this post, I'm [@runemadsen](https://www.twitter.com/runemadsen) on Twitter*
