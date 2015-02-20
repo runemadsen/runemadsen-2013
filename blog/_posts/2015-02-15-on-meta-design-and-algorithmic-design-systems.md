@@ -54,8 +54,8 @@ I believe this to be an important evolution in the design profession, and there 
 
 </ol>
 
-It is dangerous to speculate about simplistic futures, and I'm convinced that  traditional design practices will be even more relevant as time goes by. However, I think we'll see implications to both professional practices and educational institutions: A new type of design program, oriented towards meta-designer, will spring from within institutions that are technically literate. A new of type design practice that specializes in systems design will become increasingly visible. These companies will be able to deliver everything from basic identity design to very complex systems, making them ideal partners for forward-looking companies.
+It is dangerous to speculate about simplistic futures, and I'm convinced that  traditional design practices will be even more relevant as time goes by. However, I think we'll see implications to both professional practices and educational institutions: A new type of design program, oriented towards meta-designers, will spring from within technically literate institutions. A new of type meta-design practice will become increasingly visible. These companies will be able to deliver everything from basic identity design to complex systems, making them ideal partners for forward-looking companies. [Design studios](sagmeisterwalsh.com) are actively exploring similar themes. Academic institutions are focusing on dynamic design products in [new publications](http://www.amazon.com/Dynamic-Identities-Cultural-Public-Context/dp/3037781637). Independent [design](http://www.dot-dot-dot.us/) [magazines](http://www.servinglibrary.org/) are also writing about these trends. There's a few indicators that this future is already here.
 
-There's a few indicators that this future is already here. [Design studios](sagmeisterwalsh.com) are actively exploring similar themes. Academic institutions are focusing on dynamic design products in [new publications](http://www.amazon.com/Dynamic-Identities-Cultural-Public-Context/dp/3037781637). Independent design magazines are [writing](http://www.dot-dot-dot.us/) [about](http://www.servinglibrary.org/) these trends.
 
-*If you liked this post, or want to comment on it, I'm [@runemadsen](https://www.twitter.com/runemadsen) on Twitter*
+
+
