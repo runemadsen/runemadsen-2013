@@ -58,6 +58,8 @@ It's dangerous to speculate about the future if you're looking for simple outcom
 
 Using the word *programmer* is quickly becoming as exhausted as the term *computer operator*, and we will need to grapple with the fact that developers are quickly becoming a creative class – particularly in the design world.
 
+*Thanks to [Greg Borenstein](http://gregborenstein.com/) for providing valuable feedback on an earlier draft of this post.*
+
 
 
 
