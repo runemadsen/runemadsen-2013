@@ -6,6 +6,6 @@ s3cmd sync --acl-public --guess-mime-type --exclude '*.html' --add-header="Cache
 
 # Sync html files last to not provoke CDN to cache 404's on images. Also set 0 seconds cache control
 echo "\n--> Syncing .html"
-s3cmd sync --acl-public --guess-mime-type --exclude '*.*' --include  '*.html' --add-header="Cache-Control: max-age=0, must-revalidate"  _site/ s3://runemadsen.com
+s3cmd sync --acl-public --mime-type="text/html; charset=utf-8" --exclude '*.*' --include  '*.html' --add-header="Cache-Control: max-age=0, must-revalidate"  _site/ s3://runemadsen.com
 
 echo "\n--> Done!"

@@ -9,9 +9,9 @@ category: work
   <section class="project">
     <a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
     <div class="wide-750">
-      <a href="{{ post.url }}"><img src="{{ post.poster | asset_path }}" /></a>
+      <a href="{{ post.url }}"><img src="{{ post.poster | asset_path }}" alt="{{ post.title }}" /></a>
     </div>
-    <p>{{ post.excerpt }} <a href="{{ post.url }}">Continue reading...</a></a></p>
+    <p>{{ post.excerpt }} <a href="{{ post.url }}">Continue reading...</a></p>
     
   </section>
 {% endfor %}
