@@ -34,7 +34,7 @@ Although not a new phenomenon, I believe this to be an important evolution of th
 
   <li>
     <span class="bignum">1</span>
-    <strong>Design products are becoming increasingly dynamic</strong>, which makes it difficult to sustain a design process based on static prototypes. <a href="http://daringfireball.net/2012/02/walter_isaacson_steve_jobs">Design is how it works</a> and sketching in code is the only natural way to prototype a dynamic system. Building even the simplest of data visualizations means hours of work in languages like R, Julia or Python. When your content is data, poking around in Photoshop simply makes no sense. In some way, it's the direct opposite of design: prettifying without context. One important aspect of modern design products is their increasing demand for temporal logic, where a linear narrative is replaced by a set of complex states. Many apps and games need to dynamically transition between hundreds of states, and static design tools fail completely in prototyping these kinds of products. Another example would be the use of procedural design elements in games, where it's simply impossible to design everything by hand. Visual thinking is increasingly done in code, and there is not much to do if you can't program. As our design products become dynamic it makes less and less sense to separate the design and implementation.
+    <strong>Design products are becoming increasingly dynamic</strong>, which makes it difficult to sustain a design process based on static prototypes. <a href="http://daringfireball.net/2012/02/walter_isaacson_steve_jobs">Design is how it works</a> and sketching in code is the only natural way to prototype a dynamic system. Building even the simplest of data visualizations means hours of work in languages like R, Julia or Python. When your content is data, poking around in Photoshop simply makes no sense. In some way, it's the direct opposite of design: prettifying without context. One important aspect of modern design products is their increasing demand for temporal logic, where a linear narrative is replaced by a set of complex states. Many apps and games need to dynamically transition between hundreds of states, and static design tools fail completely in prototyping these kinds of products. Another example is the use of procedural elements in games, where it's simply impossible to design everything by hand. Visual thinking is increasingly done in code, and there is not much to do if you can't program. As our design products become dynamic it makes less and less sense to separate the design and implementation.
   </li>
 
   <li>
@@ -49,12 +49,31 @@ Although not a new phenomenon, I believe this to be an important evolution of th
 
   <li>
     <span class="bignum">4</span>
-    <strong>Systems are an important part of our design history</strong>. I find this point extremely important, as it's something I realized rather late in my design education. <a href="http://printingcode.runemadsen.com/lecture-intro/">The history of graphic design is full of artists using rules or systems</a>. Before the computer was a household item, Karl Gerstner wrote the book <em><a href="http://runemadsen.com/blog/karl-gerstner-designing-programmes/">"Designing Programmes"</a></em>, outlining many of these exact ideas. Algorists like Sol Lewitt also valued the algorithm over the artifact. It's important for designers to learn how to express themselves using systems, simply because it has been shown that systems can be expressive, creative, and challenge many of the notions inherited from tradional design labor. Furthermore, today these theories can be more than theoretical instructions for a manual workflow. We have the ability to write algorithmic systems that create designs, and the designer of the future will need to understand how to deliver on that promise.
+    <strong>Systems are an important part of our design history</strong>. I find this point extremely important, as it's something I realized rather late in my design education. <a href="http://printingcode.runemadsen.com/lecture-intro/">The history of graphic design is full of artists using rules or systems</a>. Before the computer was a household item, Karl Gerstner wrote the book <em><a href="http://runemadsen.com/blog/karl-gerstner-designing-programmes/">"Designing Programmes"</a></em>, outlining many of these exact ideas. Algorists like Sol Lewitt also valued the algorithm over the artifact. It's important for designers to learn how to express themselves using systems, simply because history shows that systems can be expressive, creative, and challenge many of the notions inherited from tradional design labor. Furthermore, today these theories can be more than theoretical instructions for a manual workflow. We have the ability to write algorithmic systems that create designs, and the designer of the future will need to understand how to deliver on that promise.
   </li>
 
 </ol>
 
-It's dangerous to speculate about the future if you're looking for simple outcomes, and we know for a fact that the new doesn't extinguish the old. However, I think we'll see implications to both professional practice and educational institutions: A new type of meta-design education will start to compete with existing visual arts programs. A new type of meta-design practice will become increasingly visible as well. Right now, [design studios](http://www.sagmeisterwalsh.com) are actively exploring similar themes. Academic institutions are focusing on dynamic design products in [new publications](http://www.amazon.com/Dynamic-Identities-Cultural-Public-Context/dp/3037781637). Independent [design](http://www.dot-dot-dot.us/) [magazines](http://www.servinglibrary.org/) are also writing about these trends. 
+It's dangerous to speculate about the future if you're looking for simple outcomes, and we know for a fact that the new doesn't extinguish the old. However, I think we'll soon see a new type of meta-design practice become increasingly visible, and I'd like to describe what this could look like.
+
+I dream of a design practice that works in the intersection between art, design and computation. A company founded on the belief that the pragmatic and poetic is inseparable, and that modern design products should be dynamic, adaptable systems built in code. This kind of practice would create beautiful, intelligent, and functional design products for any medium, be it physical installations, web applications, or systems to generate print products. Most of all, it would be a company dedicated to good ideas, and with the talent to implement them. 
+
+There are several reasons why this practice would be built around designers who work in code. They have the skills to question assumptions brought to us by existing design tools, and can help build new tools for algorithmic design. They can think critically about these trends, and help drive a research focus that is as much centered in the humanities as in computer science. They can help build a company where this type of talent wants to work, and help reflect this in the company culture: [a deep trust in the individual](http://en.wikipedia.org/wiki/Bounded_rationality), a relentless pursuit of the sublime, and a belief in failure as a means of innovating.
+
+Finally
+- Provide a consultancy to clients that doesn't have the traditional divide between design and development. Reminds me of Stuart Bailey: Our design proposal to the magazine was to write better content. What does that mean in the digital world?
+Defined by a relentless pursuit of the sublime. I often think about NOMA: Redxepiz journal is the most innovative I've read in ages.
+
+
+
+
+
+
+
+
+
+
+Right now, [design studios](http://www.sagmeisterwalsh.com) are actively exploring similar themes. Academic institutions are focusing on dynamic design products in [new publications](http://www.amazon.com/Dynamic-Identities-Cultural-Public-Context/dp/3037781637). Independent [design](http://www.dot-dot-dot.us/) [magazines](http://www.servinglibrary.org/) are also writing about these trends. 
 
 Using the word *programmer* is quickly becoming as exhausted as the term *computer operator*, and we will need to grapple with the fact that developers are quickly becoming a creative class – particularly in the design world.
 
