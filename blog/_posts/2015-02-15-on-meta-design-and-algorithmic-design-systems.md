@@ -55,6 +55,7 @@ Although not a new phenomenon, I believe this to be an important evolution of th
 </ol>
 
 It's dangerous to speculate about the future if you're looking for simple outcomes, and we know for a fact that the new doesn't extinguish the old. However, I think we'll see implications to both professional practice and educational institutions: A new type of meta-design education will start to compete with existing visual arts programs. A new type of meta-design practice will become increasingly visible as well. Right now, [design studios](http://www.sagmeisterwalsh.com) are actively exploring similar themes. Academic institutions are focusing on dynamic design products in [new publications](http://www.amazon.com/Dynamic-Identities-Cultural-Public-Context/dp/3037781637). Independent [design](http://www.dot-dot-dot.us/) [magazines](http://www.servinglibrary.org/) are also writing about these trends. 
+
 Using the word *programmer* is quickly becoming as exhausted as the term *computer operator*, and we will need to grapple with the fact that developers are quickly becoming a creative class – particularly in the design world.
 
 
