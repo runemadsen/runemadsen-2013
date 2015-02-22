@@ -56,24 +56,11 @@ Although not a new phenomenon, I believe this to be an important evolution of th
 
 It's dangerous to speculate about the future if you're looking for simple outcomes, and we know for a fact that the new doesn't extinguish the old. However, I think we'll soon see a new type of meta-design practice become increasingly visible, and I'd like to describe what this could look like.
 
-I dream of a design practice that works in the intersection between art, design and computation. A company founded on the belief that the pragmatic and poetic is inseparable, and that modern design products should be dynamic, adaptable systems built in code. This kind of practice would create beautiful, intelligent, and functional design products for any medium, be it physical installations, web applications, or systems to generate print products. Most of all, it would be a company dedicated to good ideas, and with the talent to implement them. 
+I dream of a design practice that works in the intersection between art, design and computation. A company founded on the belief that the pragmatic and poetic is inseparable, and that modern design products should be dynamic, adaptable systems built in code. This kind of practice would create beautiful, intelligent, and functional design products for any medium, be it physical installations, web applications, or print products. Most of all, it would be a company dedicated to good ideas, with the talent to implement them. 
 
-There are several reasons why this practice would be built around designers who work in code. They have the skills to question assumptions brought to us by existing design tools, and can help build new tools for algorithmic design. They can think critically about these trends, and help drive a research focus that is as much centered in the humanities as in computer science. They can help build a company where this type of talent wants to work, and help reflect this in the company culture: [a deep trust in the individual](http://en.wikipedia.org/wiki/Bounded_rationality), a relentless pursuit of the sublime, and a belief in failure as a means of innovating.
+There are several reasons why this practice would be built around designers who work in code. They have the skills to question assumptions brought to us by existing design tools, and can help build new tools to replace them. They can think critically about these trends using their domain-knowledge, and conduct original research with deep connections between the humanities and computer science. They can also build a company culture where this talent wants to work, with [a deep trust in the individual](http://en.wikipedia.org/wiki/Bounded_rationality), a relentless pursuit of the sublime, and a belief in failure as a means of innovation.
 
-Finally
-- Provide a consultancy to clients that doesn't have the traditional divide between design and development. Reminds me of Stuart Bailey: Our design proposal to the magazine was to write better content. What does that mean in the digital world?
-Defined by a relentless pursuit of the sublime. I often think about NOMA: Redxepiz journal is the most innovative I've read in ages.
-
-
-
-
-
-
-
-
-
-
-Right now, [design studios](http://www.sagmeisterwalsh.com) are actively exploring similar themes. Academic institutions are focusing on dynamic design products in [new publications](http://www.amazon.com/Dynamic-Identities-Cultural-Public-Context/dp/3037781637). Independent [design](http://www.dot-dot-dot.us/) [magazines](http://www.servinglibrary.org/) are also writing about these trends. 
+As to what products this type of practice would create, I'd rather not speculate. I do know that some [design studios](http://www.sagmeisterwalsh.com) are exploring similar themes in their work, and that academic institutions are releasing [publications](http://www.amazon.com/Dynamic-Identities-Cultural-Public-Context/dp/3037781637) focused on dynamic design. It has been a popular topic in independent [design](http://www.dot-dot-dot.us/) [magazines](http://www.servinglibrary.org/) too. 
 
 Using the word *programmer* is quickly becoming as exhausted as the term *computer operator*, and we will need to grapple with the fact that developers are quickly becoming a creative class – particularly in the design world.
 
