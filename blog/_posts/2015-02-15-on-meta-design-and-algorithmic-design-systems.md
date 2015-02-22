@@ -49,10 +49,7 @@ Although not a new phenomenon, I believe this to be an important evolution of th
 
   <li>
     <span class="bignum">4</span>
-    <strong>Systems are an important part of our design history</strong>. I find this point extremely important, as it's something I realized rather late in my design education. <a href="http://printingcode.runemadsen.com/lecture-intro/">The history of graphic design is full of artists using rules or systems</a>. Before the computer was a household item, Karl Gerstner wrote the book <em><a href="http://runemadsen.com/blog/karl-gerstner-designing-programmes/">"Designing Programmes"</a></em>, outlining many of these exact ideas. Algorists like Sol Lewitt also valued the algorithm over the artifact. It's important for designers to learn how to express themselves using systems, simply because the history of the visual arts show that systems can be very expressive, creative, and challenge some of the notions that arrive from traditional design work.
-
-
-  Furthermore, today these theories can be more than theoretical instructions for a manual workflow. We have the ability to write algorithmic systems that create designs, and the designer of the future will need to understand how to deliver on that promise.
+    <strong>Systems are an important part of our design history</strong>. I find this point extremely important, as it's something I realized rather late in my design education. <a href="http://printingcode.runemadsen.com/lecture-intro/">The history of graphic design is full of artists using rules or systems</a>. Before the computer was a household item, Karl Gerstner wrote the book <em><a href="http://runemadsen.com/blog/karl-gerstner-designing-programmes/">"Designing Programmes"</a></em>, outlining many of these exact ideas. Algorists like Sol Lewitt also valued the algorithm over the artifact. It's important for designers to learn how to express themselves using systems, simply because it has been shown that systems can be expressive, creative, and challenge many of the notions inherited from tradional design labor. Furthermore, today these theories can be more than theoretical instructions for a manual workflow. We have the ability to write algorithmic systems that create designs, and the designer of the future will need to understand how to deliver on that promise.
   </li>
 
 </ol>
