@@ -11,7 +11,7 @@ Danish designer, programmer, and artist. Designs and builds web applications, in
 
 ### Programming
 
-Ruby, Javascript, Golang, C++, Java, Arduino. And a never stopping pursuit for to learn new ones.
+Ruby, Javascript, Golang, C++, Java, Arduino. And a never stopping pursuit to learn new ones.
 
 ### Design
 
