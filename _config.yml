@@ -12,6 +12,8 @@ permalink: /:categories/:title
 exclude: [Gemfile, Gemfile.lock]
 excerpt_separator: ""
 paginate: 5
+gems:
+  - jekyll-sitemap
 assets:
   js_compressor:  uglifier
   css_compressor: sass

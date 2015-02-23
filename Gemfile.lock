@@ -30,6 +30,7 @@ GEM
     jekyll-assets (0.7.1)
       jekyll (~> 1.0)
       sprockets (~> 2.10)
+    jekyll-sitemap (0.8.0)
     kramdown (1.0.2)
     liquid (2.5.1)
     maruku (0.6.1)
@@ -61,5 +62,6 @@ PLATFORMS
 DEPENDENCIES
   jekyll!
   jekyll-assets
+  jekyll-sitemap
   sass
   uglifier
