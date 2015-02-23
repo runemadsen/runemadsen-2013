@@ -54,17 +54,19 @@ Although not a new phenomenon, I believe this to be an important evolution of th
 
 </ol>
 
+<div class="wide-750">
+  <img src="{% asset_path blog/metafont.jpg %}" alt="Metafont and TrueType" />
+</div>
+
 It's dangerous to speculate about the future if you're looking for simple outcomes, and we know for a fact that the new doesn't extinguish the old. However, I think a new type of meta-design practice will become increasingly visible, and I'd like to describe what this could look like.
 
 I envision a design practice that works in the intersection between art, design and computation. A company founded on the belief that the pragmatic and poetic is inseparable, and that modern design products should be dynamic, adaptable systems built in code. This kind of practice would create beautiful, intelligent, and functional design products for any medium, be it physical installations, web applications, or print products. Most of all, it would be a company dedicated to good ideas, with the talent to implement them despite technical requirements. 
 
 There are several reasons why this practice would be built around designers who work in code. They have the skills to question assumptions brought to us by existing design tools, and can help build new tools to replace them. They can think critically about these trends using their domain-knowledge, and conduct original research with deep connections between the humanities and computer science. They can also build a company culture where this talent wants to work, with [a deep trust in the individual](http://en.wikipedia.org/wiki/Bounded_rationality), a relentless pursuit of the sublime, and a belief in failure as a means of innovation.
 
-Some [design studios](http://www.sagmeisterwalsh.com) are exploring similar themes in their work, and academic institutions are releasing [publications](http://www.amazon.com/Dynamic-Identities-Cultural-Public-Context/dp/3037781637) focused on dynamic design. It has been a popular topic in independent [design](http://www.dot-dot-dot.us/) [magazines](http://www.servinglibrary.org/) too. 
+Some [design studios](http://www.sagmeisterwalsh.com) are exploring similar themes in their work, and academic institutions are releasing [publications](http://www.amazon.com/Dynamic-Identities-Cultural-Public-Context/dp/3037781637) focused on dynamic design. It has been a popular topic in independent [design](http://www.dot-dot-dot.us/) [magazines](http://www.servinglibrary.org/) too. Using the word *programmer* is quickly becoming as exhausted as the term *computer operator*, and we will need to grapple with the fact that developers are becoming a creative class – particularly in the design world.
 
-Using the word *programmer* is quickly becoming as exhausted as the term *computer operator*, and we will need to grapple with the fact that developers are quickly becoming a creative class – particularly in the design world.
-
-*Thanks to [Greg Borenstein](http://gregborenstein.com/) for providing valuable feedback on an earlier draft of this post.*
+<div class="thanks"><p>Thanks to <a href="http://gregborenstein.com/">Greg Borenstein</a> for providing valuable feedback on an earlier draft of this post.</p></div>
 
 
 
