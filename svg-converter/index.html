@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>SVG to PNG conversion tool</title>
+    <script type="text/javascript" src="javascripts/jquery.js"></script>
+    <script type="text/javascript" src="javascripts/dropzone.js"></script>
+    <link rel="stylesheet" href="stylesheets/converter.css" media="screen" charset="utf-8">
+  </head>
+  <body>
+
+    <main>
+
+      <h1>SVG to PNG converter</h1>
+
+      <p>When generating SVG elements with libraries such as <a href="http://d3js.org/">D3.js</a>
+      or <a href="http://runemadsen.github.io/rune.js/">Rune.js</a>, you often need the ability to convert
+      your SVG to a pixel-based image format. However, tools like Illustrator or Inkscape are incredibly buggy,
+      and do not render SVG's like the browser. This tool lets you choose an SVG file to convert, choose the
+      size of the output image, and render the final PNG via the browser.</p>
+
+      <div id="hotzone">Drop SVG file here</div>
+
+      <script type="text/javascript" src="javascripts/converter.js"></script>
+
+    </main>
+
+  </body>
+</html>

@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-  
+
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+
   <!-- General metadata -->
-  <meta charset="utf-8"> 
+  <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   <meta name="keywords" content="{% if page.keywords %}{{ page.keywords }}{% else %}{{ site.keywords }}{% endif %}">
@@ -16,11 +18,12 @@
   <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   <meta name="twitter:image:src" content="{{site.url}}{% if page.poster %}{{ page.poster | asset_path }}{% else %}{{ 'front/tinyartists2.jpg' | asset_path }}{% endif %}">
 
-  <link href='http://fonts.googleapis.com/css?family=Merriweather:400,400layout,700' rel='stylesheet' type='text/css'>
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <link href='http://fonts.googleapis.com/css?family=Merriweather:400,400italic,700' rel='stylesheet' type='text/css'>
+
   {% stylesheet app %}
   {% javascript app %}
   {% include analytics.html %}
+
 </head>
 <body{% if page.bodyID %} id="{{page.bodyID}}"{% endif %}>
   {% include menu.html %}
