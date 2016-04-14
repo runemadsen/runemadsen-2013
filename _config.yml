@@ -14,9 +14,9 @@ excerpt_separator: ""
 paginate: 5
 gems:
   - jekyll-sitemap
+  - jekyll-paginate
 assets:
-  js_compressor:  uglifier
-  css_compressor: sass
+  digest: true
   sources:
     - _assets/javascripts
     - _assets/stylesheets
