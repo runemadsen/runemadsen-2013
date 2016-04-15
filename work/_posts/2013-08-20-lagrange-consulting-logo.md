@@ -6,7 +6,6 @@ excerpt: |
   Logo design for Lagrange Consulting.
 categories: work
 poster: work/lagrange.jpg
-permalink: "work/lagrange-consulting-logo"
 ---
 
 Logo design for the IT consultant firm Lagrange Consulting.

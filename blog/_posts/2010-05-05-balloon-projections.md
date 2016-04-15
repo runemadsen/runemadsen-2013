@@ -7,7 +7,7 @@ categories: blog
 
 This video shows a series of audio responsive animations projected onto a cluster of balloons. The projections are going to be used as a part of the stage show for an upcoming US tour. The balloons will be mounted onto an old barrel organ that is a part of the musical performance.
 
-<iframe src="http://player.vimeo.com/video/17891021?title=0&amp;byline=0&amp;portrait=0&amp;color=ffd663" width="600" height="338" frameborder="0"> </iframe>
+<iframe src="https://player.vimeo.com/video/17891021?title=0&amp;byline=0&amp;portrait=0&amp;color=ffd663" width="600" height="338" frameborder="0"> </iframe>
 
 The animations and the software framework is all done in OpenFrameworks. The framework is a Model-View-Controller framework that consists of a number of elements. By pressing "r" you will set the application into record mode, which will enable you to click on the screen to create a new ballon model object and assign the current mouse location to it. You can also plot the points directly on a video feed via the control panel (pressing space), which will automatically map the video coordinates to screen coordinates.
 

@@ -6,7 +6,6 @@ excerpt: |
   I Used To Be Somebody is an interactive video sculpture made out of an old Macintosh Classic 2. This project is a collaboration with Scott Wayne Indiana.
 categories: work
 poster: work/i-used-to-be-somebody.jpg
-permalink: "work/i-used-to-be-somebody"
 ---
 
 Spare some change for a Machinosh Classic? "I Used To Be Somebody" is a comment on our consumption of technology. The video features an old Machintosh Classic 2 standing outside the Apple Store. Equipped with a face-tracking webcam in the floppy drive it's desperatly looking at people passing by, asking for spare change to survive.
@@ -14,7 +13,7 @@ Spare some change for a Machinosh Classic? "I Used To Be Somebody" is a comment 
 This project is inspired by [JED's Other Poem](http://stewd.io/w/jed) by [Stewart Smith](http://stewd.io) and is a collaboration with [Scott Wayne Indiana](http://www.39forks.com).
 
 <div class="wide-750">
-  <iframe src="http://player.vimeo.com/video/17903170?title=0&amp;byline=0&amp;portrait=0" width="750" height="423" frameborder="0"> </iframe>
+  <iframe src="https://player.vimeo.com/video/17903170?title=0&amp;byline=0&amp;portrait=0" width="750" height="423" frameborder="0"> </iframe>
 </div>
 
 <div class="wide-750">

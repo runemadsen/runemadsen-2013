@@ -6,7 +6,6 @@ excerpt: |
   Versionize is a web-based tool for iterating ideas individually or in groups, built on the version control system Git. It's a structured and flexible replacement to the personal sketch book; a personal tool for people to write down ideas, and keep iterating by adding text, images and links to them.
 categories: work
 poster: work/versionize.jpg
-permalink: "work/versionize"
 ---
 
 Versionize is a web-based tool for iterating ideas individually or in groups, built on the version control system Git. It's a structured and flexible replacement to the personal sketch book; a personal tool for people to write down ideas, and keep iterating by adding text, images and links to them.

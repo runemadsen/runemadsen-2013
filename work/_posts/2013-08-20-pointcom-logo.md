@@ -6,7 +6,6 @@ excerpt: |
   Logo design for Point Communications.
 categories: work
 poster: work/pointcom.jpg
-permalink: "work/pointcom-logo"
 ---
 
 Logo design for Point Communications.

@@ -6,7 +6,6 @@ excerpt: |
   Game design and character animation for the indie game "Reservoir", about a girl living in a water reservoir underneath New York City. The game is made in collaboration with Morten Skjoldborg Madsen.
 categories: work
 poster: work/reservoir.jpg
-permalink: "work/reservoir-game"
 ---
 
 Game design and character animation for the indie game "Reservoir", about a girl living in a water reservoir underneath New York City. The game is made in collaboration with Morten Skjoldborg Madsen.

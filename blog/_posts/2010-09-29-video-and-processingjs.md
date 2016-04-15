@@ -3,7 +3,6 @@ layout:     blog
 title:      "Video and Processing.js"
 date:       2010-09-29 18:43:22
 categories: blog
-permalink: "blog/video-and-processingjs"
 ---
 
 ![arduinoroll]({% asset_path blog/arduinoroll.jpg %})
@@ -16,5 +15,3 @@ I'm currently working on a project with [Greg Borenstein](http://urbanhonking.co
 
 [See the Example](code/processingvideo/video.html)
 [Source Code on GitHub](http://github.com/runemadsen/ProcessingJSVideo)
-
-

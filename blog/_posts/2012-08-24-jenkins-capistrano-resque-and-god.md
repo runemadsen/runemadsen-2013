@@ -3,7 +3,6 @@ layout: blog
 title:  "Jenkins, Capistrano, Resque and God"
 date:   2012-08-24 21:05:07
 categories: blog
-permalink: "blog/jenkins-capistrano-resque-and-god"
 ---
 
 I'm currently working on a web application that uses Resque heavily to send jobs to a separate server that picks up these jobs, runs them, and reports back to the Rails app hosted on Heroku.
@@ -12,7 +11,7 @@ Until now we have been deploying the workers by SSH'ing into the worker server, 
 
 I wanted this: Whenever I push something to the "production" branch on Github, a server running Jenkins will pull down the code and run the tests. If they pass, Jenkins will run a capistrano script that will deploy the code to the worker server. We are using God to monitor our Resque processes, so capistrano would need to kill these processes in order for God to start them up again with the new code.
 
-The big takeaways are: 
+The big takeaways are:
 
 1) RVM (which we use on the jenkins server for tests and on the worker server for production gems) needs to be installed under the users running the code. This means the "jenkins" user on the Jenkins server and the "worker" user on the worker server. That will save you hours of banging your head against the table.
 

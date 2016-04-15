@@ -5,7 +5,7 @@ date:       2014-09-01 10:48:00
 categories: blog
 ---
 
-In my [lectures](http://printingcode.runemadsen.com) and [talks](http://runemadsen.com/work/waza-programming-and-the-visual-arts/), I often speak about the *Swiss Style*, a term used to describe a new approach to graphic design that came from Switzerland in the 1960’s. One of the leading figures in this movement was Karl Gerstner, who's book *The Forms of Color (1986)* I recently bought.
+In my [lectures](http://printingcode.runemadsen.com) and [talks](https://runemadsen.com/work/waza-programming-and-the-visual-arts/), I often speak about the *Swiss Style*, a term used to describe a new approach to graphic design that came from Switzerland in the 1960’s. One of the leading figures in this movement was Karl Gerstner, who's book *The Forms of Color (1986)* I recently bought.
 
 <div class="wide-750">
   <img src="{% asset_path blog/books/formsofcolor1.jpg %}" />

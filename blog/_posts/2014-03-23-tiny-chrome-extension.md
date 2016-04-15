@@ -3,7 +3,6 @@ layout:     blog
 title:      "Tiny Chrome Extension"
 date:       2014-03-23 16:53:00
 categories: blog
-permalink: "blog/tiny-chrome-extension"
 ---
 
 I made a simple one-day hack in the form a Chrome extension called [Header Hunter](https://chrome.google.com/webstore/detail/headerhunter/almeoedichpmgpjhobhenfacacpohbma). It's a simple Google Chrome extension that will show a small alert whenever you visit a website that returns recruitment messages in the HTTP headers.

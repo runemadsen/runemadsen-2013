@@ -3,7 +3,6 @@ layout: blog
 title:  "Record video from C++"
 date:   2010-10-13 15:46:54
 categories: blog
-permalink: "blog/record-video-from-c"
 ---
 
 **Update: I've created an openframeworks wrapper around the VLC remote features. You can [find the details here](http://ofxaddons.com/repos/528)**.

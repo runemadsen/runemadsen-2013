@@ -8,7 +8,6 @@ description: "Tiny Artists is a series of small computer programs that print gen
 keywords: "Generative design, graphic design posters, minimalist posters, minimalism"
 categories: work
 poster: work/tinyartists.jpg
-permalink: "work/tiny-artists"
 ---
 
 "Tiny Artists" is a series of small computer programs that print graphic posters according to their individual style, taste, and current mood. Each program is born with a short lifespan and can only create a limited number of works. A program will then delete itself and leave no digital trace of itself or its creations. The printed graphics are the only originals. "Tiny Artists" is a simulation of the commissioning of artists, a story of life and death in software, and a comment on the originality of art in the digital world.

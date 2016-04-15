@@ -3,7 +3,6 @@ layout: blog
 title:  "Datamapper, MySQL and Sinatra on OSX"
 date:   2010-11-12 04:41:57
 categories: blog
-permalink: "blog/using-datamapper-with-mysql-and-sinatra-on-osx"
 ---
 
 Trying to set up Sinatra with Datamapper today, I was running into a lot of problems. I got errors when trying to install the mysql gem and the dm-mysql-adapter gem. When I actually managed to do it, Datamapper gave me the following error:
@@ -20,4 +19,3 @@ I spent hours trying to fix it, but I finally suceeded. This is what worked for 
 6. [Now do this](http://coryodaniel.com/index.php/2010/01/20/installing-mysql-from-dmg-on-mac-and-the-few-commands-to-make-it-work-on-the-command-line/) to make the socket path work
 
 That should hopefully make MySQL and Datamapper work. Connect like this in you app and you're good to go:
-

@@ -6,7 +6,6 @@ excerpt: |
   The Artist is not Present is a site-specific art piece and a custom piece of software written specifically to run during the 3 weeks of the SP Urban Festival in Sao Paolo. The software is an autonomous algorithm that continuously generates geometric art, evaluates it according to the aesthetic taste of its creator, and adapts.
 categories: work
 poster: work/theartistisnotpresent.jpg
-permalink: "work/the-artist-is-not-present"
 ---
 
 Whether we want to or not, our lives are controlled by computers. So-called learning algorithms are increasingly responsible for delivering the information that powers our decisions: what we consume, who we interact with, and what we believe.

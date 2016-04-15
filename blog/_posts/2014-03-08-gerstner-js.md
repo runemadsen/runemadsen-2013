@@ -3,7 +3,6 @@ layout:     blog
 title:      "Generative Webfonts with JS"
 date:       2014-03-08 13:55:00
 categories: blog
-permalink: "blog/gerstner-js"
 ---
 
 These last couple of weekends I've been toying around with the idea of generating CSS rules via Javascript, trying to see if that could open up some opportunities for fun browser experiments. I've been compiling all this functionality into a library I call [Gerstner.js](https://github.com/runemadsen/gerstner.js).

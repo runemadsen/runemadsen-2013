@@ -6,9 +6,9 @@ description: "Rune Madsen is a Danish designer, programmer, artist and educator 
 keywords: "algorithmic graphic design, generative design, rune madsen, Processing, creative code"
 twitter_username: runemadsen
 github_username:  runemadsen
-url: "http://www.runemadsen.com"
+url: "https://www.runemadsen.com"
 highlighter: pygments
-permalink: /:categories/:title
+permalink: /:categories/:title/
 exclude: [Gemfile, Gemfile.lock]
 excerpt_separator: ""
 paginate: 5

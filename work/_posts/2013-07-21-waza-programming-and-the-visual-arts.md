@@ -11,7 +11,7 @@ poster: work/waza.jpg
 I had the pleasure of speaking at Heroku's developer event "Waza" earlier this year.
 
 <div class="wide-750">
-  <iframe frameborder='0' height='423' src='http://player.vimeo.com/video/61113159?byline=0&amp;title=0&amp;portrait=0&amp;color=ffd663' width='750'> </iframe>
+  <iframe frameborder='0' height='423' src='https://player.vimeo.com/video/61113159?byline=0&amp;title=0&amp;portrait=0&amp;color=ffd663' width='750'> </iframe>
 </div>
 
 During the last decade, the line between a "designer" and a "developer" has obviously blurred, but not to the degree one would expect. Tools created for graphic designers still tend to mimic creative processes that existed long before the computer, while development environments for programmers are primarily code-based.
